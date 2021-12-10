@@ -1,0 +1,195 @@
+# <!=Copyright (C) 2021 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Charity Care 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/charity-care\n"
+"POT-Creation-Date: 2021-04-16 06:59:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: archive-give_forms.php:27
+msgid "Page"
+msgstr ""
+
+#: functions.php:55
+msgid "Give Section"
+msgstr ""
+
+#: functions.php:73
+msgid "Enable Give Section"
+msgstr ""
+
+#: functions.php:91
+msgid "Give Section Title"
+msgstr ""
+
+#: functions.php:109
+msgid "Give Section Content"
+msgstr ""
+
+#: functions.php:127
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:137
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:138
+msgid "View demo"
+msgstr ""
+
+#: functions.php:138 functions.php:139 functions.php:140 functions.php:141
+msgid "here"
+msgstr ""
+
+#: functions.php:139
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:140
+msgid "Support ticket"
+msgstr ""
+
+#: functions.php:141
+msgid "More Details"
+msgstr ""
+
+#: functions.php:145
+msgid "About Charity Care"
+msgstr ""
+
+#: functions.php:225
+msgid "Give Donation Plugin"
+msgstr ""
+
+#: functions.php:279
+msgid "&copy; "
+msgstr ""
+
+#: functions.php:279
+msgid "Y"
+msgstr ""
+
+#: functions.php:287
+msgid "Charity Care | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#: functions.php:289
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:289
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: give/shortcode-goal.php:98
+#. translators: 1: amount of income raised 2: goal target amount.
+msgid ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"raised"
+msgstr ""
+
+#: give/shortcode-goal.php:107 give/shortcode-goal.php:112
+#. translators: 1: total number of donations completed 2: total number of
+#. donations set as goal
+#. translators: 1: total number of donors completed 2: total number of donors
+#. set as goal
+msgid ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"donation"
+msgid_plural ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"donations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#: header.php:57 header.php:144 sections/section-give.php:10
+#: template-parts/content-give-form.php:9
+msgid "Donate Now"
+msgstr ""
+
+#: header.php:72
+msgid "Mobile"
+msgstr ""
+
+#: header.php:92 header.php:150
+msgid "Menu"
+msgstr ""
+
+#: sections/section-give.php:75
+msgid "Goal: "
+msgstr ""
+
+#: sections/section-give.php:76
+msgid "Raised: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Charity Care"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/charity-care/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Charity Care is a child theme of Benevolent free WordPress theme. This "
+"theme can be used for creating a mobile-friendly and beautiful website for "
+"not for profit organizations like charity, INGO, NGO, trust, foundation, "
+"and so on. If you are looking to create a website to collect donations for "
+"your cause while also spreading your message to the world, Charity Care is "
+"perfect for you. The theme is intuitive to use and also comes with free "
+"demo content import so that you can complete your project quickly. Although "
+"this theme is designed for nonprofit organizations in mind, it's flexible "
+"and versatile feature makes it a multipurpose theme that can be suitable "
+"for any business websites, digital agency, consultancy, corporate business, "
+"freelancers, and bloggers. The theme is SEO friendly with optimized codes, "
+"which make it easy for your site to rank in Google and other search "
+"engines. Charity Care comes with several advanced yet easy-to-use features "
+"to create a user-friendly, interactive, and visually stunning website in no "
+"time. Some of its features include a custom menu with Call to Action "
+"Button, Donation Button, advanced full-width slider, community section, "
+"Stats counter, Sponsors Section, Donation Section, Banner with Call to "
+"Action Button (CTA), and social media. This theme comes with four footer "
+"area and a right sidebar. It even includes four custom widgets for the "
+"recent posts, popular posts, social media, and the featured post. The theme "
+"is rigorously tested and optimized for speed and faster page load time and "
+"has a secure and clean code. The theme is also translation ready and is "
+"designed with a focus on visitor engagement. Charity Care helps you quickly "
+"and intuitively create professional and appealing websites in a matter of "
+"time without any prior coding knowledge or experience. Check the demo at "
+"https://rarathemes.com/previews/?theme=charity-care/, documentation at "
+"https://docs.rarathemes.com/docs/charity-care/ and get support at "
+"https://rarathemes.com/support-forum/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""

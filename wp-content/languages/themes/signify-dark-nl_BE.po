@@ -1,0 +1,52 @@
+# Translation of Themes - Signify Dark in Dutch (Belgium)
+# This file is distributed under the same license as the Themes - Signify Dark package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-22 16:51:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl_BE\n"
+"Project-Id-Version: Themes - Signify Dark\n"
+
+#. Description of the theme
+msgid "Signify Dark is a free dark Blog and Corporate WordPress theme that is trendy, responsive, and dynamic. It is a child theme of Signify, a popular Corporate WordPress theme. Signify Dark inherits all the premium-like features and functionalities from its parent theme. However, the child theme comes with a dark color scheme. Dark color schemes are quite popular and trending nowadays on top charts as it is considered to be a bold design trend and also they’re easy on the eye. If you love dark theme for your blog or corporate site, Signify Dark is the one to go for. You will find features like Featured Content, Slider Options, Portfolio, Testimonials, Services, Hero Content, Header Media, Menu Options, and more in Signify Dark. With the awesome package full of features and a dark color scheme, Signify Dark will represent your site in an aesthetic manner. Your blog/corporate site will look absolutely gorgeous and professional across all screen sizes as well. Official Support Forum: https://themepalace.com/support-forum/ Full Demo: https://wenthemes.com/theme-demos/?demo=signify-dark"
+msgstr "Signify Dark is een gratis donker Blog en Corporate WordPress thema dat trendy, responsieve en dynamisch is. Het is een sub-thema van Signify, een populair Corporate WordPress thema. Signify Dark neemt alle premium-achtige functies en functionaliteiten over van het hoofdthema. Het sub-thema wordt echter geleverd met een donker kleurenschema. Donkere kleurenschema's zijn behoorlijk populair en trending tegenwoordig in de toplijsten, omdat het wordt beschouwd als een gedurfde ontwerptrend en ze ook gemakkelijk voor het oog zijn. Als je van een donker thema houdt voor je blog of bedrijfswebsite, dan is Signify Dark de juiste keuze. In Signify Dark vindt je functies zoals uitgelichte inhoud, regelaar opties, portfolio, aanbevelingen, diensten, helden inhoud, headermedia, menu opties en meer. Met het geweldige pakket vol functies en een donker kleurenschema, zal Signify Dark je site op een esthetische manier weergeven. Je blog/bedrijfswebsite ziet er ook op alle schermformaten absoluut schitterend en professioneel uit. Officieel ondersteuningsforum: https://themepalace.com/support-forum/ Volledige demo: https://wenthemes.com/theme-demos/?demo=signify-dark"
+
+#. Theme Name of the theme
+msgid "Signify Dark"
+msgstr "Signify Dark"
+
+#: functions.php:110
+msgid "Select Layout"
+msgstr "Selecteer lay-out"
+
+#: functions.php:108
+msgid "4 columns"
+msgstr "4 kolommen"
+
+#: functions.php:107
+msgid "3 columns"
+msgstr "3 kolommen"
+
+#: functions.php:106
+msgid "2 columns"
+msgstr "2 kolommen"
+
+#: functions.php:105
+msgid "1 column"
+msgstr "1 kolom"
+
+#. Theme URI of the theme
+msgid "https://wenthemes.com/item/wordpress-themes/signify-dark/"
+msgstr "https://wenthemes.com/item/wordpress-themes/signify-dark/"
+
+#. Author URI of the theme
+msgid "https://wenthemes.com/"
+msgstr "https://wenthemes.com/"
+
+#. Author of the theme
+msgid "WEN Themes"
+msgstr "WEN Themes"

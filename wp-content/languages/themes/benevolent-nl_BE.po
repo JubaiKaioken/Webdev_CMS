@@ -1,0 +1,1528 @@
+# Translation of Themes - Benevolent in Dutch (Belgium)
+# This file is distributed under the same license as the Themes - Benevolent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-15 19:28:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl_BE\n"
+"Project-Id-Version: Themes - Benevolent\n"
+
+#. Description of the theme
+msgid "Benevolent is an easy to use, clean modern and  flexible multipurpose theme.   Although the theme was designed with nonprofit organizations in mind , the theme is very versatile and can be used by any business websites, digital agency, consultancy, corporate business, freelancers, and bloggers. The theme is SEO friendly with optimized codes, which  make it easy for your site to rank on Google and other search engines. Benevolent comes with several features to make user-friendly, interactive and visually stunning website. Such features include custom menu with Call to Action Button, advance full width slider,  community section, Stats counter,  Client Section, Banner with Call to Action Button  (CTA),  and social media. It has four footer area and a right sidebar and includes  four custom widgets for the recent posts, popular posts, social media and the featured post. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Benevolent helps you to easily and intuitively create professional and appealing websites. Check the demo at https://rarathemes.com/previews/?theme=benevolent/, documentation at https://docs.rarathemes.com/docs/benevolent/ and get support at https://rarathemes.com/support-forum/."
+msgstr ""
+"Benevolent is een eenvoudig te gebruiken, schoon, modern en flexibel multifunctioneel thema. Hoewel het thema is ontworpen met het oog op non-profitorganisaties, is het thema zeer veelzijdig en kan het worden gebruikt door zakelijke websites, digitale bureaus, consultancy, bedrijven, freelancers en bloggers. Het thema is SEO-vriendelijk met geoptimaliseerde codes, waardoor jouw site gemakkelijk op Google en andere zoekmachines kan worden gerangschikt. Benevolent wordt geleverd met verschillende functies om een ​​gebruiksvriendelijke, interactieve en visueel verbluffende website te maken. Dergelijke functies omvatten een aangepast menu met Call to Action knop, geavanceerde regelaar over de volledige breedte, community sectie, statistieken teller, klant sectie, banner met Call to Action knop (CTA) en sociale media. Het heeft vier footer gebiedeb en een rechterzijbalk en bevat vier aangepaste widgets voor de recente berichten, populaire berichten, sociale media en het uitgelicht bericht. Het thema is uitvoerig getest en geoptimaliseerd voor snelheid en snellere laadtijd van de pagina en heeft een veilige en schone code. Het thema is ook klaar voor vertaling. Ontworpen met de betrokkenheid van bezoekers in het achterhoofd, helpt Benevolent je om gemakkelijk en intuïtief professionele en aantrekkelijke websites te maken.\n"
+"Bekijk de demo at https://rarathemes.com/previews/?theme=benevolent/, documentatie op https://docs.rarathemes.com/docs/benevolent/ en ondersteuning op https://rarathemes.com/support-forum/."
+
+#. Theme Name of the theme
+msgid "Benevolent"
+msgstr "Benevolent"
+
+#: inc/extras.php:549
+msgid "Rara Themes"
+msgstr "Rara Themes"
+
+#: header.php:72
+msgid "Mobile"
+msgstr "Mobiel"
+
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/extras.php:785
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: inc/extras.php:226
+msgid ")"
+msgstr ")"
+
+#: inc/extras.php:226
+msgid " (Page"
+msgstr " (Pagina"
+
+#: inc/extras.php:224
+msgid "404 Error - Page not Found"
+msgstr "404 fout-pagina niet gevonden"
+
+#: inc/extras.php:207
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/extras.php:201
+msgid "\""
+msgstr "\""
+
+#: inc/extras.php:201
+msgid "Search Results for \""
+msgstr "Zoekresultaten voor: "
+
+#: inc/extras.php:121
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:119 inc/extras.php:127
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:119
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:675 inc/extras.php:680
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/extras.php:674 inc/extras.php:678
+msgid "Name"
+msgstr "Naam"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "FAQ's &amp; Ondersteuning"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Je vindt alles om van start te gaan op %1$s hieronder."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Aan de slag met %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Aan het activeren"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Jetpack-portfolio"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Installeer en activeer"
+
+#: inc/getting-started/tabs/plugins-panel.php:50
+msgid "Version %s"
+msgstr "Versie %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:40
+msgid "These Free Plugins might be handy for you."
+msgstr "Deze gratis plugins zijn misschien handig voor je."
+
+#: inc/getting-started/tabs/plugins-panel.php:39
+msgid "Free Plugins"
+msgstr "Gratis plugins"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRara One Click Demo%3$s Import to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "Hier is een lijst van aanbevolen plugins die je zou moeten installeren om het meeste te krijgen ui %1$s. Ook al is elke plugin optioneel, bevelen we je aan om tenminste %2$sRara One Click Demo%3$s import te installeren om een website te creëren vergelijkbaar met de %1$s demo en ook om zeker te zijn dat elke functie van het thema correct werkt."
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details possible so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Wanneer je een ondersteuningsticket indient, probeer dan zo veel mogelijk details te verstrekken, zodat we jouw probleem in detail kunnen bekijken en sneller kunnen oplossen. We raden je aan om ons een screenshot (s) te sturen met uitleg over de problemen en het adres van jouw website (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Zorg ervoor dat je altijd de nieuwste versie van het thema hebt bijgewerkt voordat je een ondersteuningsticket indient voor elk probleem. Mogelijk hebben we de bug in de vorige thema update al verholpen."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Hoe kan ik mijn problemen snel oplossen en sneller ondersteuning krijgen?"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Als dit niet helpt, neem dan contact met ons op via ons %1$sOndersteuning ticket%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Om het probleem op te lossen, deactiveer eerst alle plugins, behalve degene die worden aanbevolen door het thema. Herlaad vervolgens jouw website hard met behulp van %1$s \"CTRL + SHIFT + R\" %2$s op Windows en %1$s \"Cmd + Shift + R\" %2$s op Mac. Als de problemen zijn opgelost, start je de plugins één voor één, en laad je elke keer opnieuw en controleer je jouw website. Dit zal je helpen de plugin te achterhalen die het probleem veroorzaakt."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Als jouw customizer niet goed wordt geladen of als je problemen ondervindt met het thema, kan dit het gevolg zijn van het plugin conflict."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Waarom werkt mijn thema niet goed?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Je kan de copyright tekst wijzigen door naar %1$sWeergave >Customize > Footer instellingen aanpassen %2$s te gaan. Als je echter de auteur-krediet tekst wilt verbergen, kan je %3$supgraden naar de Pro-versie %4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Hoe wijzig ik de copyright tekst?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "De Pro-versie is gebouwd met veel flexibiliteit in het achterhoofd voor toekomstige upgrades. Daarom is het iets anders dan het gratis thema, maar zeer flexibel en eenvoudig te gebruiken."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Aangezien de Pro-versie echter wordt geleverd met toegevoegde functies en instellingen, moet u de extra functies in de Customizer instellen. Dit proces is eenvoudig en duurt slechts een paar minuten."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Wanneer je een upgrade uitvoert naar het Pro thema, blijven jouw berichten, pagina's, media, categorieën en andere gegevens intact--  al jouw gegevens worden opgeslagen."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Upgraden naar de Pro-versie - zal ik mijn wijzigingen kwijtraken?"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Naast de extra functies en regelmatige updates, krijg je toegewijde en snelle ondersteuning met het premium thema. Als je een probleem tegenkomt tijdens het maken van een website met het premium thema, krijg je een snellere reactie in vergelijking met de gratis ondersteuning."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Wat zijn de voordelen van een upgrade naar de Premium versie?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "Je hebt meer controle over het aanpassen en bewerken van je website met de Pro versie."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "Zowel de gratis als de Pro versie van de thema's zijn goed gecodeerd en ontwikkeld volgens de codeer richtlijnen. Doch, de Pro versie van de thema's is geleverd met uitgebreide functies en een toegewijd ondersteuningsteam helpt je met oplossen van je vragen. Het Pro thema levert ook verschillende homepagina secties die je kan sorteren en verbergen volgens jouw vereisten. Ook bevat het Pro thema verschillende voorgedefinieerde pagina templates."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Wat is het verschil tussen gratis en Pro versie?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Bezoek de kennisbank"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Onze documentatie wordt geleverd met een stapsgewijze handleiding van het installeren van WordPress tot het aanpassen van ons thema tot het creëren van een aantrekkelijke en boeiende website."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Hulp nodig bij het zo snel mogelijk gebruik maken van WordPress en ons thema? Bezoek onze goed georganiseerde documentatie."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Bezoek de kennisbank"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Lees hier meer over de functies "
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr "Ook krijgt de Pro versie regelmatig updates en heeft het een toegewijd ondersteuningsteam om al jouw vragen op te lossen."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern as well as fonts of the website with the Pro version. Also, the Pro theme features more homepage sections than free version to allow you to showcase your organization services in a better way boosting the growth of the organization. Furthermore, the premium theme comes with multiple predefined page templates."
+msgstr "De Pro versie van het thema staat toe om de look and feel van de website met slechts enkele clicks te veranderen. Je kan eenvoudig de kleur, achtergrond afbeelding en patroon en ook de lettertypes van de website veranderen met de Pro versie. Alsook, het Pro thema levert meer homepagina secties dan de gratis versie om je toe te staan jouw organisatiediensten op een betere manier te tonen en de groei van de organisatie te stimuleren. Verder, komt het premium thema met verschillende voorgedefinieerde pagina templates."
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Upgraden naar de Pro-versie"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Bekijk demo"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Bezoek de demo"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Bezoek de demo om een idee te krijgen over ons thema ontwerp en functies."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "Bekijk onze %1$s demo"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Neem contact op met ondersteuning"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Bezoek de ondersteuning"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Als de documentatie gids niet geholpen heeft, neem dan contact met ons op via %1$sOndersteuning Ticket%2$s. We beantwoorden alle ondersteuningsvragen binnen één werkdag, behalve in het weekend."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Het is altijd beter om onze %1$sDocumentatie gids%2$s te raadplegen voordat je ons een ondersteuningsaanvraag stuurt."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Ondersteuning ticket"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Bekijk documentatie"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Bezoek de documentatie"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Ben je nieuw in de WordPress wereld?  Onze stap voor stap eenvoudige documentatie gids zal je helpen om een aantrekkelijke en innemende website aan te maken zonder enige codeerkennis of -ervaring."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Bekijk onze documentatie link"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Bekijk de Pro-versie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Bekijk Premium versie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: functions.php:283
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: functions.php:282
+msgid "Go to the getting started."
+msgstr "Ga naar de pagina aan de slag."
+
+#: functions.php:281
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s is nu geïnstalleerd en klaar voor gebruik. Klik hieronder om de thema documentatie, plugins om te installeren en andere details te zien om aan de slag te gaan."
+
+#: functions.php:280
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Ga naar inhoud (druk op Enter)"
+
+#: inc/widget-featured-post.php:120
+msgid "Excerpt Word Count"
+msgstr "Samenvatting woordenteller"
+
+#: inc/extras.php:548
+msgid "Benevolent | Developed By "
+msgstr "Benevolent | Ontwikkeld door"
+
+#: inc/customizer.php:392
+msgid "Open in new tab"
+msgstr "Open in nieuw tabblad"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel niet actief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel niet actief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plugin is momenteel niet actief:  %1$s."
+msgstr[1] "De volgende vereiste plugins zijn momenteel niet actief:  %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor de volgende plugin: %1$s."
+msgstr[1] "Er is een update beschikbaar voor de volgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moeten bijgewerkt worden om goed te kunnen werken met dit thema:  %1$s."
+msgstr[1] "De volgende plugins moeten bijgewerkt worden om goed te kunnen werken met dit thema:  %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin:%1$s."
+msgstr[1] "Dit thema vereist de volgende plugins:%1$s."
+
+#: inc/tgmpa/recommended-plugins.php:54
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: inc/extras.php:117 inc/extras.php:119 inc/extras.php:125 inc/extras.php:130
+#: inc/extras.php:540
+msgid "Y"
+msgstr "J"
+
+#: inc/extras.php:289
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b>"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installatie plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s succesvol geïnstalleerd."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces gaat van start. Dit proces kan een tijdje duren op bepaalde hosts, dus wees geduldig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren van plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen werden uitgevoerd."
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Toon details"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en succesvol geactiveerd."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces gaat van start. Dit proces kan een tijdje duren op bepaalde hosts, dus wees geduldig."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Een fout trad op tijdens de installatie van %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin bijwerken %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Activatie plugin mislukt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn momenteel geen plugins beschikbaar om te activeren."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er werden geen plugins geselecteerd die geactiveerd moeten worden. Er werd geen actie ondernomen."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn geen plugins die geüpdatet moeten worden."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn geen plugins die geïnstalleerd moeten worden."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om bij te werken. Geen actie ondernomen."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er werden geen plugins geselecteerd die geïnstalleerd moeten worden. Er werd geen actie ondernomen."
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Bijwerken"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installeer"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade bericht van de plugin auteur:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versie"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Bron"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Er zijn geen plugins die geïnstalleerd, bijgewerkt of geactiveerd moeten worden."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Te activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te activeren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Te installeren<span class=\"count\">(%s)</span>"
+msgstr[1] "Te installeren<span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Vereist update"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actief"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet actief"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externe bron"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Verplicht"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Het remote pluginpakket bestaat uit meer dan één bestand, maar de bestanden zijn niet verpakt in een map."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de maker van de plugin en vraag hem hun pluginpakket volgens de WordPress richtlijnen te maken."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "De externe plugin bevat geen map met de gewenste slug; hernoemen werkte niet."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "De plugin moet worden bijgewerkt om compatibel te zijn met je thema."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Gelieve de administrator van deze website om hulp te vragen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn één of meerdere vereiste of aanbevolen plugins die geïnstalleerd, bijgewerkt  of geactiveerd moeten worden."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "De plugin is niet geactiveerd. Een nieuwere versie van %s is noodzakelijk voor dit thema. Werk de plugin bij."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie vereist. Plugin %1$s was reeds actief."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin werd succesvol geactiveerd:"
+msgstr[1] "De volgende plugins werden succesvol geactiveerd:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Terug naar dashboard"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Terugkeren naar plugin installer"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met activeren van plugin"
+msgstr[1] "Begin met activeren van plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Start het bijwerken van een plugin"
+msgstr[1] "Start het bijwerken van plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginnen met het installeren van de plugin"
+msgstr[1] "Beginnen met het installeren van de plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Bijwerken plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Aan het installeren Plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: inc/customizer.php:1766
+msgid "Static Front Page"
+msgstr "Statische startpagina"
+
+#: inc/info.php:149
+msgid "VIEW PRO THEME"
+msgstr "Bekijk Pro thema"
+
+#: inc/info.php:147
+msgid "Pro Available"
+msgstr "Pro versie beschikbaar"
+
+#: inc/customizer.php:1705
+msgid "Copyright Info"
+msgstr "Copyright informatie"
+
+#: inc/customizer.php:1688
+msgid "Footer Settings"
+msgstr "Instellingen footer"
+
+#: inc/info.php:30
+msgid "About Benevolent"
+msgstr "Over Benevolent"
+
+#: inc/info.php:26
+msgid "More Details"
+msgstr "Meer details"
+
+#: inc/info.php:25
+msgid "Support ticket"
+msgstr "Ondersteuning ticket"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Bekijk documentatie"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:25 inc/info.php:26
+msgid "here"
+msgstr "hier"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Bekijk demo"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Hulp nodig?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Informatie links"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Homepagina"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#: template-parts/content.php:42 template-parts/content.php:51
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:35 template-parts/content.php:58
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan een zoekactie helpen"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, niets komt overeen met je zoektermen. Probeer opnieuw met andere trefwoorden."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: search.php:24
+msgid "Showing Results for %s"
+msgstr "Toont resultaten voor %s"
+
+#: search.php:19
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: inc/widget-social-links.php:62
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:1592 inc/extras.php:252 inc/widget-social-links.php:60
+#: inc/widget-social-links.php:112
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widget-social-links.php:41 inc/widget-social-links.php:85
+#: inc/widget-social-links.php:152
+msgid "Subscribe & Follow"
+msgstr "Inschrijven & volgen"
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Een sociale media links widget"
+
+#: inc/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Sociale media links"
+
+#: inc/widget-recent-post.php:42 inc/widget-recent-post.php:104
+#: inc/widget-recent-post.php:147
+msgid "Recent Posts"
+msgstr "Meest recente berichten"
+
+#: inc/widget-recent-post.php:28
+msgid "A Recent Post Widget"
+msgstr "Een recent bericht widget"
+
+#: inc/widget-recent-post.php:27
+msgid "RARA: Recent Post"
+msgstr "RARA: Recent bericht"
+
+#: inc/widget-popular-post.php:128 inc/widget-recent-post.php:128
+msgid "Show Post Date"
+msgstr "Toon berichtdatum"
+
+#: inc/widget-popular-post.php:117 inc/widget-recent-post.php:117
+msgid "Number of Posts"
+msgstr "Aantal berichten"
+
+#: inc/widget-popular-post.php:112 inc/widget-recent-post.php:112
+#: inc/widget-social-links.php:97
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widget-popular-post.php:41 inc/widget-popular-post.php:104
+#: inc/widget-popular-post.php:147
+msgid "Popular Posts"
+msgstr "Populaire berichten"
+
+#: inc/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Een populair bericht widget"
+
+#: inc/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Populair bericht"
+
+#: inc/widget-featured-post.php:126 inc/widget-popular-post.php:123
+#: inc/widget-recent-post.php:123
+msgid "Show Post Thumbnail"
+msgstr "Bericht thumbnail tonen                            "
+
+#: inc/widget-featured-post.php:116
+msgid "Read More Text"
+msgstr "Lees verder tekst"
+
+#: inc/widget-featured-post.php:106
+msgid "Posts"
+msgstr "Berichten"
+
+#: inc/widget-featured-post.php:87
+msgid "--choose--"
+msgstr "--kies--"
+
+#: inc/widget-featured-post.php:27
+msgid "A Featured Post Widget"
+msgstr "Een uitgelicht bericht widget"
+
+#: inc/widget-featured-post.php:26
+msgid "RARA: Featured Post"
+msgstr "Rara: uitgelichte berichten"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:59 template-parts/content-page.php:46
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: inc/template-tags.php:52
+msgid "Tagged %1$s"
+msgstr "Getagd %1$s"
+
+#: inc/template-tags.php:46
+msgid "Posted in %1$s"
+msgstr "Geplaatst in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:44 inc/template-tags.php:50
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/template-tags.php:30
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/template-tags.php:30
+msgid "Leave a comment"
+msgstr "Geef een reactie"
+
+#: inc/metabox.php:39
+msgid "Choose Sidebar Template"
+msgstr "Kies zijbalk template"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Geen zijbalk"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Rechter zijbalk (standaard)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Zijbalk lay-out"
+
+#: inc/extras.php:550
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/extras.php:550
+msgid "Powered by %s"
+msgstr "Mogelijk gemaakt door %s"
+
+#: inc/extras.php:540
+msgid "&copy; "
+msgstr "&kopie; "
+
+#: inc/extras.php:298
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#: inc/extras.php:292
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: inc/customizer.php:1677
+msgid "Put your custom CSS"
+msgstr "Voeg aangepaste CSS toe"
+
+#: inc/customizer.php:1675
+msgid "Custom Css"
+msgstr "Aangepaste CSS"
+
+#: inc/customizer.php:1657
+msgid "Custom CSS Settings"
+msgstr "Pas CSS instellingen aan"
+
+#: inc/customizer.php:1646 inc/extras.php:258 inc/widget-social-links.php:68
+#: inc/widget-social-links.php:132
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:1628 inc/extras.php:256 inc/widget-social-links.php:66
+#: inc/widget-social-links.php:127
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:64 inc/widget-social-links.php:122
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer.php:1610 inc/extras.php:254 inc/widget-social-links.php:117
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:1574 inc/extras.php:250 inc/widget-social-links.php:58
+#: inc/widget-social-links.php:107
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:1556 inc/extras.php:248 inc/widget-social-links.php:56
+#: inc/widget-social-links.php:102
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:1538
+msgid "Enable Social Icons in Header"
+msgstr "Inschakelen sociale media iconen in header"
+
+#: inc/customizer.php:1520
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Leeg laten indien je de sociale media link niet wil tonen."
+
+#: inc/customizer.php:1519
+msgid "Social Settings"
+msgstr "Sociale media instellingen"
+
+#: inc/customizer.php:1508
+msgid "Breadcrumb Separator"
+msgstr "Kruimelpad scheidingsteken"
+
+#: inc/customizer.php:1500 inc/extras.php:69
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:1490
+msgid "Breadcrumb Home Text"
+msgstr "Home tekst kruimelpad"
+
+#: inc/customizer.php:1482 inc/extras.php:70
+msgid "Home"
+msgstr "Home"
+
+#: inc/customizer.php:1472
+msgid "Show current"
+msgstr "Toon huidige"
+
+#: inc/customizer.php:1454
+msgid "Enable Breadcrumb"
+msgstr "Inschakelen kruimelpad"
+
+#: inc/customizer.php:1436
+msgid "Breadcrumb Settings"
+msgstr "Kruimelpad instellingen"
+
+#: inc/customizer.php:1423
+msgid "Background Image"
+msgstr "Achtergrond afbeelding"
+
+#: inc/customizer.php:1367
+msgid "Promotional Section Title"
+msgstr "Promotionele sectie titel"
+
+#: inc/customizer.php:1349
+msgid "Enable Promotional Section"
+msgstr "Inschakelen promotionele sectie"
+
+#: inc/customizer.php:1331
+msgid "Promotional Section"
+msgstr "Promotionele sectie"
+
+#: inc/customizer.php:1320
+msgid "Logo Five Url"
+msgstr "Logo vijf url"
+
+#: inc/customizer.php:1302
+msgid "Upload Logo Five"
+msgstr "Upload logo vijf"
+
+#: inc/customizer.php:1282
+msgid "Logo Four Url"
+msgstr "Logo vier url"
+
+#: inc/customizer.php:1264
+msgid "Upload Logo Four"
+msgstr "Upload logo vier"
+
+#: inc/customizer.php:1244
+msgid "Logo Three Url"
+msgstr "Logo drie url"
+
+#: inc/customizer.php:1226
+msgid "Upload Logo Three"
+msgstr "Upload logo drie"
+
+#: inc/customizer.php:1206
+msgid "Logo Two Url"
+msgstr "Logo twee url"
+
+#: inc/customizer.php:1188
+msgid "Upload Logo Two"
+msgstr "Upload logo twee"
+
+#: inc/customizer.php:1168
+msgid "Logo One Url"
+msgstr "Logo een url"
+
+#: inc/customizer.php:1150
+msgid "Upload Logo One"
+msgstr "Upload logo een"
+
+#: inc/customizer.php:1130
+msgid "Sponsor Section Title"
+msgstr "Sponsor sectie titel"
+
+#: inc/customizer.php:1112
+msgid "Enable Sponsor Section"
+msgstr "Inschakelen sponsor sectie"
+
+#: inc/customizer.php:1094
+msgid "Sponsor Section"
+msgstr "Sponsor sectie"
+
+#: inc/customizer.php:1083
+msgid "Blog Section Read More Text"
+msgstr "Blog sectie lees meer tekst"
+
+#: inc/customizer.php:1075 inc/widget-featured-post.php:41
+#: inc/widget-featured-post.php:99 inc/widget-featured-post.php:146
+#: sections/section-blog.php:11 template-parts/content.php:66
+msgid "Read More"
+msgstr "Meer lezen"
+
+#: inc/customizer.php:1065
+msgid "Blog Section Content"
+msgstr "Blog sectie inhoud"
+
+#: inc/customizer.php:1047
+msgid "Blog Section Title"
+msgstr "Blog sectie titel"
+
+#: inc/customizer.php:1029
+msgid "Show Blog Date"
+msgstr "Toon blog datum"
+
+#: inc/customizer.php:1011
+msgid "Enable Blog Section"
+msgstr "Blog sectie inschakelen"
+
+#: inc/customizer.php:993
+msgid "Blog Section"
+msgstr "Blog sectie"
+
+#: inc/customizer.php:982
+msgid "Fourth Stat Counter Title"
+msgstr "Titel vierde statistiekenteller"
+
+#: inc/customizer.php:964
+msgid "Fourth Stat Counter Number"
+msgstr "Vierde statistiekenteller nummer"
+
+#: inc/customizer.php:946
+msgid "Third Stat Counter Title"
+msgstr "Derde statistiekenteller titel"
+
+#: inc/customizer.php:928
+msgid "Third Stat Counter Number"
+msgstr "Derde statistiekenteller nummer"
+
+#: inc/customizer.php:910
+msgid "Second Stat Counter Title"
+msgstr "Tweede statistiekenteller titel"
+
+#: inc/customizer.php:892
+msgid "Second Stat Counter Number"
+msgstr "Tweede statistiekenteller nummer"
+
+#: inc/customizer.php:874
+msgid "First Stat Counter Title"
+msgstr "Eerste statistiekenteller titel"
+
+#: inc/customizer.php:856
+msgid "First Stat Counter Number"
+msgstr "Eerste statistiekenteller nummer"
+
+#: inc/customizer.php:838
+msgid "Enable Stat Counter Section"
+msgstr "Inschakelen stat teller sectie"
+
+#: inc/customizer.php:820
+msgid "Stat Counter Section"
+msgstr "Statistiekenteller sectie"
+
+#: inc/customizer.php:808
+msgid "Select Post Four"
+msgstr "Selecteer bericht vier"
+
+#: inc/customizer.php:789
+msgid "Select Post Three"
+msgstr "Selecteer bericht drie"
+
+#: inc/customizer.php:770
+msgid "Select Post Two"
+msgstr "Selecteer bericht twee"
+
+#: inc/customizer.php:751
+msgid "Select Post One"
+msgstr "Selecteer bericht een"
+
+#: inc/customizer.php:733
+msgid "Community Section Title"
+msgstr "Community sectie titel"
+
+#: inc/customizer.php:715
+msgid "Enable Community Section"
+msgstr "Inschakelen community sectie"
+
+#: inc/customizer.php:697
+msgid "Community Section"
+msgstr "Community sectie"
+
+#: inc/customizer.php:684
+msgid "Upload a Image Three"
+msgstr "Upload een afbeelding drie"
+
+#: inc/customizer.php:662
+msgid "Upload a Logo Three"
+msgstr "Upload logo drie"
+
+#: inc/customizer.php:642
+msgid "Intro Three Url"
+msgstr "Intro drie url"
+
+#: inc/customizer.php:624
+msgid "Intro Three Link Label"
+msgstr "Intro drie link label"
+
+#: inc/customizer.php:606
+msgid "Intro Three Title"
+msgstr "Intro drie titel"
+
+#: inc/customizer.php:586
+msgid "Upload a Image Two"
+msgstr "Upload logo twee"
+
+#: inc/customizer.php:564
+msgid "Upload a Logo Two"
+msgstr "Upload logo twee"
+
+#: inc/customizer.php:544
+msgid "Intro Two Url"
+msgstr "Intro twee url"
+
+#: inc/customizer.php:526
+msgid "Intro Two Link Label"
+msgstr "Intro twee url label"
+
+#: inc/customizer.php:508
+msgid "Intro Two Title"
+msgstr "Intro twee url titel"
+
+#: inc/customizer.php:488
+msgid "Upload a Image One"
+msgstr "Upload een afbeelding een"
+
+#: inc/customizer.php:466
+msgid "Upload a Logo One"
+msgstr "Upload logo een"
+
+#: inc/customizer.php:446
+msgid "Intro One Url"
+msgstr "Intro een url"
+
+#: inc/customizer.php:428
+msgid "Intro One Link Label"
+msgstr "Intro een url label"
+
+#: inc/customizer.php:410
+msgid "Intro One Title"
+msgstr "Intro een url titel"
+
+#: inc/customizer.php:374
+msgid "Intro Section Content"
+msgstr "Intro sectie inhoud"
+
+#: inc/customizer.php:356
+msgid "Intro Section Title"
+msgstr "Intro sectie titel"
+
+#: inc/customizer.php:338
+msgid "Enable Intro Section"
+msgstr "Inschakelen intro sectie"
+
+#: inc/customizer.php:320
+msgid "Intro Section"
+msgstr "Intro sectie "
+
+#: inc/customizer.php:312
+msgid "Customize Home Page Settings"
+msgstr "Homepagina instellingen aanpassen"
+
+#: inc/customizer.php:311
+msgid "Home Page Settings"
+msgstr "Homepage instellingen"
+
+#: inc/customizer.php:297
+msgid "Choose Slider Category"
+msgstr "Kies regelaar categorie"
+
+#: inc/customizer.php:279
+msgid "Readmore Text"
+msgstr "Lees meer text"
+
+#: inc/customizer.php:271 inc/extras.php:360
+msgid "Learn More"
+msgstr "Meer informatie"
+
+#: inc/customizer.php:261
+msgid "Animation Speed"
+msgstr "Animatie snelheid"
+
+#: inc/customizer.php:243
+msgid "Slider Speed"
+msgstr "Regelaar snelheid"
+
+#: inc/customizer.php:226
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/customizer.php:225
+msgid "Fade"
+msgstr "Vervagen"
+
+#: inc/customizer.php:221
+msgid "Choose Slider Animation"
+msgstr "Kies regelaar animatie"
+
+#: inc/customizer.php:203
+msgid "Enable Slider Caption"
+msgstr "Inschakelen regelaar onderschrift"
+
+#: inc/customizer.php:185
+msgid "Enable Slider Pager"
+msgstr "Inschakelen regelaar pager"
+
+#: inc/customizer.php:167
+msgid "Enable Slider Loop"
+msgstr "Inschakelen regelaar loop"
+
+#: inc/customizer.php:149
+msgid "Enable Slider Auto Transition"
+msgstr "Inschakelen automatische overgang regelaar"
+
+#: inc/customizer.php:131
+msgid "Enable Home Page Slider"
+msgstr "Inschakelen homepagina regelaar"
+
+#: inc/customizer.php:113
+msgid "Slider Settings"
+msgstr "Regelaar instellingen"
+
+#: inc/customizer.php:102 inc/customizer.php:1403
+msgid "Button Url"
+msgstr "Knop url"
+
+#: inc/customizer.php:84 inc/customizer.php:1385
+msgid "Button Text"
+msgstr "Tekst knop"
+
+#: inc/customizer.php:66
+msgid "Donate Button"
+msgstr "Doneerknop"
+
+#: inc/customizer.php:47
+msgid "Default section provided by WordPress customizer."
+msgstr "Standaard sectie geleverd door WordPress customizer."
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr "Standaard instellingen"
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr "Kies een categorie"
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr "Kies bericht"
+
+#: header.php:57 inc/customizer.php:76 inc/extras.php:884
+msgid "Donate Now"
+msgstr "Doneer nu"
+
+#: inc/extras.php:832 inc/extras.php:891
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:190
+msgid "Footer Four"
+msgstr "Footer vier"
+
+#: functions.php:180
+msgid "Footer Three"
+msgstr "Footer drie"
+
+#: functions.php:170
+msgid "Footer Two"
+msgstr "Footer twee"
+
+#: functions.php:160
+msgid "Footer One"
+msgstr "Footer een"
+
+#: functions.php:150
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: functions.php:53
+msgid "Secondary"
+msgstr "Secundair"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Primair"
+
+#: inc/extras.php:695
+msgid "Comment"
+msgstr "Reactie"
+
+#: inc/extras.php:682
+msgid "Website"
+msgstr "Website"
+
+#: inc/extras.php:675
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/extras.php:674
+msgid "Name*"
+msgstr "Naam*"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Reacties zijn uitgeschakeld. "
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Reactie-navigatie"
+
+#: comments.php:28
+msgid "Comments"
+msgstr "Reacties"
+
+#: archive.php:40 index.php:46 search.php:42
+msgid "Page"
+msgstr "Pagina"
+
+#: 404.php:21
+msgid "Return to Homepage"
+msgstr "Terug naar homepagina"
+
+#: 404.php:20
+msgid "This page could not be found on the server."
+msgstr "Deze pagina kon niet gevonden worden op de server."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Pagina niet gevonden"
+
+#: 404.php:16 404.php:18
+msgid "Error 404"
+msgstr "Fout 404 "
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr "Rara thema"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/benevolent/"
+msgstr "https://rarathemes.com/wordpress-themes/benevolent/"

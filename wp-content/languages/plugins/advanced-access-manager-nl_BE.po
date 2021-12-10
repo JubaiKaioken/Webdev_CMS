@@ -1,0 +1,2188 @@
+# Translation of Plugins - Advanced Access Manager - Stable (latest release) in Dutch (Belgium)
+# This file is distributed under the same license as the Plugins - Advanced Access Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-11 07:41:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl_BE\n"
+"Project-Id-Version: Plugins - Advanced Access Manager - Stable (latest release)\n"
+
+#: application/Backend/tmpl/service/menu.php:118
+msgid "Either current user does not have enough capabilities to access any available backend menu or try to refresh the page so AAM can re-index backend menu."
+msgstr "Ofwel heeft de huidige gebruiker niet genoeg mogelijkheden om toegang te krijgen tot een beschikbaar back-end menu of probeer de pagina te vernieuwen zodat AAM het back-end menu opnieuw kan indexeren."
+
+#: application/Backend/tmpl/page/addon-panel.php:41
+msgid "Live Site"
+msgstr "Live website"
+
+#: application/Backend/tmpl/page/addon-panel.php:40
+msgid "Development Site"
+msgstr "Ontwikkelingswebsite"
+
+#: application/Backend/tmpl/page/addon-panel.php:37
+msgid "Register Website As"
+msgstr "Registreer website als"
+
+#: application/Backend/tmpl/page/addon-panel.php:24
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: application/Backend/tmpl/partial/license-violation-notice.php:12
+msgid "For more information, please follow %sthe link%s."
+msgstr "Voor meer informatie, klik op %sdeze link%s."
+
+#: application/Backend/tmpl/partial/license-violation-notice.php:10
+msgid "There are multiple issues with Advanced Access Manager premium licenses."
+msgstr "Er zijn meerdere problemen met Advanced Access Manager premium licenties."
+
+#: application/Backend/tmpl/partial/license-violation-notice.php:8
+msgid "There is an issue with one Advanced Access Manager premium license."
+msgstr "Er is een probleem met één Advanced Access Manager premium licentie."
+
+#: application/Backend/tmpl/metabox/main-iframe.php:78
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: application/Service/Cli.php:45
+msgid "Collection of WP CLI command that facilitate various AAM features."
+msgstr "Verzameling WP CLI commando's die verschillende AAM functies mogelijk maken."
+
+#: application/Service/Cli.php:44
+msgid "WP CLI"
+msgstr "WP CLI"
+
+#: application/Backend/tmpl/page/current-subject.php:34
+msgid "You are about to reset all access settings for the %s. Please confirm."
+msgstr "Je staat op het punt om alle toegangsinstellingen voor de %s te resetten. Bevestig dit."
+
+#: application/Backend/tmpl/page/current-subject.php:31
+msgid "Reset Access Settings"
+msgstr "Reset toegangsinstellingen"
+
+#: application/Backend/tmpl/page/current-subject.php:19
+msgid "Reset Settings"
+msgstr "Reset instellingen"
+
+#: application/Service/Jwt.php:419
+msgid "Current user is not allowed to issue refreshable JWT token"
+msgstr "Huidige gebruiker mag geen vernieuwbaar JWT token uitgeven"
+
+#: application/Service/Jwt.php:141
+msgid "Issue a refreshable JWT Token"
+msgstr "Geef een vernieuwbaar JWT token af"
+
+#: application/Service/Core.php:92
+msgid "Manager Access"
+msgstr "Beheerder toegang"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:48
+msgid "Can be changed if no users are assigned to role"
+msgstr "Kan worden gewijzigd als geen gebruikers aan de rol zijn toegewezen"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:46
+msgid "Role Slug"
+msgstr "Rol slug"
+
+#: application/Backend/tmpl/partial/access-policy-action.php:17
+msgid "Learn More"
+msgstr "Leer meer"
+
+#: application/Backend/tmpl/partial/access-policy-action.php:15
+msgid "Create New Policy"
+msgstr "Maak een nieuw beleid"
+
+#: application/Backend/tmpl/partial/access-policy-action.php:14
+msgid "Download as File"
+msgstr "Download als bestand"
+
+#: application/Backend/tmpl/partial/default-principal-subject-tab.php:5
+msgid "Attach current access &amp; security policy to all users, roles and visitors"
+msgstr "Bevestig het huidige toegangs- en beveiligingsbeleid aan alle gebruikers, rollen en bezoekers"
+
+#: application/Core/Policy/Validator.php:195
+msgid "The {$app} is not active or does not satisfy minimum required version"
+msgstr "De {$app} is niet actief of voldoet niet aan de minimaal vereiste versie"
+
+#: application/Backend/View/Localization.php:147 media/js/aam.js:1600
+msgid "Policy is not assigned to anybody"
+msgstr "Het beleid is niet toegepast op iedereen"
+
+#: application/Backend/Feature/Settings/Manager.php:269
+msgid "Invalid data"
+msgstr "Ongeldige gegevens"
+
+#: application/Backend/Feature/Main/Post.php:360
+msgid "All Areas"
+msgstr "Alle gebieden"
+
+#: application/Backend/Feature/Main/Policy.php:469
+#: application/Backend/Feature/Settings/Manager.php:408
+msgid "Failed applying to %s"
+msgstr "Toepassen op %s is mislukt"
+
+#: application/Backend/tmpl/partial/access-policy-action.php:12
+msgid "Generate Access Policy"
+msgstr "Toegangsbeleid aan het genereren"
+
+#: application/Backend/tmpl/service/policy.php:97 media/js/aam.js:1431
+#: media/js/aam.js:1538
+msgid "Install"
+msgstr "Installeren"
+
+#: application/Backend/tmpl/service/policy.php:90
+msgid "Assignee(s)"
+msgstr "Rechtverkrijgende(n)"
+
+#: application/Backend/tmpl/service/policy.php:86
+msgid "Description"
+msgstr "Beschrijving"
+
+#: application/Backend/tmpl/service/policy.php:76
+msgid "Fetch"
+msgstr "Ophalen"
+
+#: application/Backend/tmpl/service/policy.php:75
+msgid "Insert Policy ID"
+msgstr "Beleid ID invoegen"
+
+#: application/Backend/tmpl/service/policy.php:72
+msgid "Install an access policy from the official %sAAM Access Policy Hub%s. Insert the policy ID and it will be automatically downloaded and applied to proper assignees."
+msgstr "Installeer een toegangsbeleid vanuit de officiële %sAAM toegangsbeleid hub%s. Voer het beleid ID in en het wordt automatisch gedownload en toegepast op de juiste medewerkers."
+
+#: application/Backend/tmpl/service/policy.php:69
+msgid "Install Access Policy"
+msgstr "Installeer toegangsbeleid"
+
+#: application/Backend/tmpl/service/policy.php:54
+msgid "You are about to delete the %s policy. Please confirm."
+msgstr "Je staat op het punt om het %s beleid te verwijderen. Gelieve te bevestigen."
+
+#: application/Backend/tmpl/service/policy.php:51
+#: application/Backend/tmpl/service/policy.php:57 media/js/aam.js:1514
+msgid "Delete Policy"
+msgstr "Beleid verwijderen"
+
+#: application/Backend/tmpl/partial/post-access-form.php:95
+msgid "Hide post in the RESTful API response"
+msgstr "Verberg bericht in het RESTful API antwoord"
+
+#: application/Backend/Feature/Main/Post.php:354
+#: application/Backend/tmpl/partial/post-access-form.php:93
+msgid "RESTful API"
+msgstr "RESTful API"
+
+#: application/Backend/tmpl/partial/post-access-form.php:84
+msgid "Hide post on the backend site of the website"
+msgstr "Verberg het bericht op de back-end zijde van de website"
+
+#: application/Backend/tmpl/partial/post-access-form.php:77
+#: application/Backend/tmpl/partial/post-access-form.php:88
+#: application/Backend/tmpl/partial/post-access-form.php:99
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: application/Backend/tmpl/partial/post-access-form.php:73
+msgid "Hide post on the frontend site of the website"
+msgstr "Verberg het bericht op de front-end zijde van de website"
+
+#: application/Backend/Feature/Main/Post.php:348
+#: application/Backend/tmpl/partial/post-access-form.php:71
+msgid "Frontend"
+msgstr "Front-end"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:124
+msgid "Select a *.json file with valid AAM settings. All the current AAM settings will be lost and replaced with imported settings."
+msgstr "Selecteer een *.json bestand met geldige AAM instellingen. Alle huidige AAM instellingen zullen verloren gaan en vervangen worden door geïmporteerde instellingen."
+
+#: application/Backend/tmpl/metabox/main-iframe.php:117
+msgid "Export AAM settings so they can be imported to a different location. To learn more about customizing exported data, refer to the \"How Import/Export feature works\" article."
+msgstr "Exporteer AAM instellingen zodat ze geïmporteerd kunnen worden naar een andere locatie. Voor meer informatie over het personaliseren van geëxporteerde gegevens, zie het artikel \"Hoe de functie Importeren/Exporteren werkt\"."
+
+#: application/Backend/tmpl/metabox/main-iframe.php:112
+msgid "Import"
+msgstr "Importeren"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:111
+msgid "Export"
+msgstr "Exporteren"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:107
+msgid "Your browser does not support modern way to work with files. The Export/Import feature will not work properly. Consider to use the latest Chrome, Firefox or Safari browser instead."
+msgstr "Je browser ondersteunt geen moderne manier om met bestanden te werken. De Export/Import functie zal niet goed werken. Overweeg in plaats daarvan de nieuwste browser Chrome, Firefox of Safari te gebruiken."
+
+#: application/Backend/tmpl/metabox/main-iframe.php:92
+msgid "Export/Import AAM Settings"
+msgstr "AAM instellingen importeren/exporteren"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:119
+#: application/Backend/View/Localization.php:75 media/js/aam.js:4681
+msgid "Download Exported Settings"
+msgstr "Download geëxporteerde instellingen"
+
+#: application/Backend/View/Localization.php:74
+msgid "Message has been sent"
+msgstr "Bericht is verzonden"
+
+#: application/Backend/tmpl/partial/post-access-form.php:64
+#: application/Backend/View/PostOptionList.php:40
+msgid "Hidden Areas"
+msgstr "Verborgen gebieden"
+
+#: application/Service/Multisite.php:63
+msgid "Automatically synchronize changes to the list of roles and capabilities as well as all access settings (if configured accordingly)."
+msgstr "Synchroniseer automatisch wijzigingen in de lijst van rollen en mogelijkheden, evenals alle toegangsinstellingen (indien dienovereenkomstig geconfigureerd)."
+
+#: application/Service/Multisite.php:62
+msgid "Multisite Settings Sync"
+msgstr "Multisite instellingen sync"
+
+#: application/Core/Policy/Validator.php:197
+msgid "The {$app} is required"
+msgstr "De {$app} is vereist"
+
+#: application/Service/Jwt.php:375
+msgid "Failed to revoke provided token"
+msgstr "Het intrekken van voorziene token is mislukt"
+
+#: application/Backend/tmpl/page/addon-panel.php:74
+msgid "Update Available"
+msgstr "Update beschikbaar"
+
+#: application/Backend/tmpl/page/addon-panel.php:52
+msgid "Check For Updates"
+msgstr "Controleer voor updates"
+
+#: application/Backend/tmpl/partial/post-access-form.php:22
+msgid "To fully protect your media library files, please refer to the %sHow to manage access to WordPress media library%s article."
+msgstr "Om je mediabibliotheek bestanden volledig te beveiligen, verwijzen wij jou naar het %sHoe de toegang tot de WordPress mediabibliotheek beheren%s artikel."
+
+#: application/Service/Content.php:250
+msgid "You are not allowed to publish this content"
+msgstr "Je hebt geen toestemming om deze inhoud te publiceren"
+
+#: application/Backend/View/Localization.php:93 media/js/aam.js:246
+msgid "Edit role"
+msgstr "Bewerk rol"
+
+#: application/Backend/View/Localization.php:64 media/js/aam.js:1090
+#: media/js/aam.js:2709 media/js/aam.js:2801 media/js/aam.js:4777
+#: media/js/aam.js:5352
+msgid "Resetting..."
+msgstr "Aan het resetten..."
+
+#: application/Service/AdminMenu.php:325
+msgid "Sorry, you are not allowed to view this page."
+msgstr "Je hebt geen toestemming om deze pagina te bekijken."
+
+#: application/Service/AdminMenu.php:70
+msgid "Manage access to the admin (backend) main menu for any role or individual user. The service removes restricted menu items and protects direct access to them."
+msgstr "Beheer de toegang tot het hoofdmenu van de beheerder (back-end) voor elke rol of individuele gebruiker. De dienst verwijdert beperkte menu items en beschermt de directe toegang ertoe."
+
+#: application/Service/Metabox.php:45
+msgid "Manage visibility for the classic (not Gutenberg blocks) backend metaboxes, dashboard and frontend widgets for any role, user or visitors. The service ONLY removes unwanted metaboxes and widgets and does not prevent from direct data spoofing."
+msgstr "Beheer zichtbaarheid voor de klassieke (niet Gutenberg blokken) backend metaboxen, dashboard en front-end widgets voor elke rol, gebruiker of bezoeker. De service verwijdert ALLEEN ongewenste metaboxen en widgets en voorkomt geen directe gegevens spoofing."
+
+#: application/Service/Route.php:66
+msgid "Manage access to any individual RESTful endpoint for any role, user or unauthenticated application request. The service works great with JWT service that authenticate requests with JWT Bearer token."
+msgstr "Beheer de toegang tot elk individueel RESTful endpoint voor elke rol, gebruiker of ongeauthenticeerd applicatie request. De dienst werkt uitstekend met JWT diensten die requests authenticeren met JWT Bearer token."
+
+#: application/Service/Jwt.php:336
+msgid "JWT token is not refreshable"
+msgstr "JWT token is niet verversbaar"
+
+#: application/Service/Jwt.php:137
+msgid "Issue JWT Token"
+msgstr "JWT token afgifte"
+
+#: application/Service/Jwt.php:83
+msgid "Manage the website authentication with JWT Bearer token. The service facilitates the ability to manage the list of issued JWT token for any user, revoke them or issue new on demand."
+msgstr "Beheer de website authenticatie met JWT Bearer token. De dienst biedt de mogelijkheid om de lijst van uitgegeven JWT token voor elke gebruiker te beheren, ze in te trekken of nieuwe op aanvraag uit te geven."
+
+#: application/Service/Capability.php:51
+msgid "Manage list of all the registered with WordPress core capabilities for any role or individual user. The service allows to create new or update and delete existing capabilities. Very powerful set of tools for more advanced user/role access management."
+msgstr "Beheer lijst van alle geregistreerde met WordPress core capaciteiten voor elke rol of individuele gebruiker. De dienst laat toe om nieuwe mogelijkheden te creëren of bestaande mogelijkheden bij te werken en te verwijderen. Zeer krachtige set van tools voor meer geavanceerde gebruiker / rol toegangsbeheer."
+
+#: application/Service/SecureLogin.php:500
+msgid "%sAccess is restricted. Login to get access.%s"
+msgstr "%sToegang is beperkt. Log in om toegang te krijgen.%s"
+
+#: application/Service/SecureLogin.php:450
+msgid "Exceeded maximum number for authentication attempts. Try again later."
+msgstr "Maximum aantal authenticatiepogingen overschreden. Probeer het later opnieuw."
+
+#: application/Service/SecureLogin.php:127
+msgid "Block User Account"
+msgstr "Gebruikersaccount blokkeren"
+
+#: application/Service/SecureLogin.php:63
+msgid "Enhance default WordPress authentication process with more secure login mechanism. The service registers frontend AJAX Login widget as well as additional endpoints for the RESTful API authentication."
+msgstr "Verbeter het standaard WordPress authenticatie proces met een veiliger login mechanisme. Deze dienst registreert front-end AJAX Login widget evenals extra endpoints voor de RESTful API authenticatie."
+
+#: application/Service/UserLevelFilter.php:60
+msgid "Extend default WordPress core users and roles handling, and make sure that users with lower user level cannot see or manager users and roles with higher level."
+msgstr "Breid de standaard WordPress core gebruikers en rollen behandeling uit, en zorg ervoor dat gebruikers met een lager gebruikers niveau geen gebruikers en rollen met een hoger niveau kunnen zien of beheren."
+
+#: application/Service/UserLevelFilter.php:59
+msgid "User Level Filter"
+msgstr "Gebruiker level filter"
+
+#: application/Service/NotFoundRedirect.php:55
+msgid "Manage frontend 404 (Not Found) redirect for any group of users or individual user."
+msgstr "Beheer front-end 404 (niet gevonden) doorverwijzing voor elke groep gebruikers of individuele gebruiker."
+
+#: application/Service/LogoutRedirect.php:67
+msgid "Manage logout redirect for any group of users or individual user after user logged out successfully."
+msgstr "Beheer uitlog doorverwijzen voor elke groep gebruikers of individuele gebruiker nadat de gebruiker met succes is uitgelogd."
+
+#: application/Service/Welcome.php:53
+msgid "Introduction panel to the AAM functionality. This is just a simple tab that contains some introductory material to the AAM plugin and its capabilities."
+msgstr "Introductiepaneel voor de AAM functionaliteit. Dit is slechts een eenvoudige tab die wat inleidend materiaal bevat over de AAM plugin en zijn mogelijkheden."
+
+#: application/Service/AccessPolicy.php:125
+msgid "Access Policy Assignee"
+msgstr "Toegangsbeleid toegewezene"
+
+#: application/Service/AccessPolicy.php:114
+msgid "Access Policy Document"
+msgstr "Toegangsbeleid document"
+
+#: application/Service/AccessPolicy.php:84
+msgid "Manage access to the website with well documented JSON access policies for any user, role or visitors. Keep the paper-trail of all the access changes with policy revisions."
+msgstr "Beheer de toegang tot de website met goed gedocumenteerd JSON toegangsbeleid voor elke gebruiker, rol of bezoeker. Bewaar het papieren spoor van alle toegangswijzigingen met beleidsherzieningen."
+
+#: application/Service/Shortcode.php:47
+msgid "Classic WordPress shortcodes that allow to manage access to parts of a frontent content as well as some UI helpers."
+msgstr "Klassieke WordPress shortcodes die het mogelijk maken de toegang tot delen van de inhoud van een front-end te beheren, evenals enkele UI helpers."
+
+#: application/Service/Shortcode.php:46
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: application/Service/LoginRedirect.php:57
+msgid "Manage login redirect for any group of users or individual user when authentication is completed successfully."
+msgstr "Beheer login doorverwijzing voor elke groep gebruikers of individuele gebruiker wanneer de authenticatie succesvol is afgerond."
+
+#: application/Service/Toolbar.php:68
+msgid "Manage access to the top admin toolbar items for any role or individual user. The service only removes restricted items but does not actually protect from direct access via link."
+msgstr "Beheer toegang tot de boven beheerder werkbalk items voor elke rol of individuele gebruiker. De dienst verwijdert alleen beperkte items, maar beschermt niet tegen directe toegang via een link."
+
+#: application/Service/DeniedRedirect.php:75
+msgid "Manage the default access denied redirect when access gets denied for any protected website resource. The service hooks into the WordPress core wp_die function and redirect any frontend or backend denied requests accordingly."
+msgstr "Beheer de standaard geweigerde doorverwijzing wanneer toegang wordt geweigerd voor een beschermde website hulpbron. De dienst haakt in op de WordPress core wp_die functie en stuurt elke front-end of back-end geweigerde aanvraag net zo om."
+
+#: application/Service/Content.php:123
+msgid "Manage access to your website content for any user, role or visitor. This include access to posts, pages, media attachment, custom post types, categories, tags, custom taxonomies and terms."
+msgstr "Beheer de toegang tot de inhoud van je website voor elke gebruiker, rol of bezoeker. Dit omvat toegang tot berichten, pagina's, media bijlage, aangepaste bericht types, categorieën, tags, aangepaste taxonomieën en termen."
+
+#: application/Service/ExtendedCapabilities.php:52
+msgid "Extend the WordPress core collection of capabilities that allow more granular access control to the backend core features."
+msgstr "Uitbreiding van de WordPress core verzameling van mogelijkheden die een meer granulaire toegangscontrole tot de back-end core functies mogelijk maken."
+
+#: application/Service/ExtendedCapabilities.php:51
+msgid "Additional Caps"
+msgstr "Extra rechten"
+
+#: application/Service/Uri.php:58
+msgid "Manage direct access to the website URIs for any role or individual user. Define either explicit URI or wildcard (with Plus Package addon) as well as how to manage user request (allow, deny, redirect, etc.)."
+msgstr "Beheer directe toegang tot de website URI's voor elke rol of individuele gebruiker. Definieer ofwel expliciete URI of wildcard (met Plus Package add-on) evenals hoe gebruikersverzoeken te beheren (toestaan, weigeren, doorverwijzen, enz.)."
+
+#: application/Backend/tmpl/metabox/policy-metabox.php:70
+msgid "Syntax Error"
+msgstr "Syntax fout"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:147
+msgid "All AAM settings will be removed."
+msgstr "Alle AAM instellingen zullen verwijderd worden."
+
+#: application/Backend/tmpl/metabox/main-iframe.php:144
+msgid "Clear all settings"
+msgstr "Alle instellingen leegmaken"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:97
+msgid "Reset AAM Settings"
+msgstr "AAM instellingen resetten"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:72
+msgid "Add-Ons"
+msgstr "Add-ons"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:66
+msgid "Settings"
+msgstr "Instellingen"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:37
+msgid "Notifications"
+msgstr "Notificaties"
+
+#: application/Backend/tmpl/service/jwt.php:133
+msgid "You are about to delete already issued JWT token. Any application or user that has this token, will no longer be able to use it. Please confirm."
+msgstr "Je staat op het punt om een reeds uitgegeven JWT token te verwijderen. Elke applicatie of gebruiker die dit token heeft, zal niet langer in staat zijn om het te gebruiken. Gelieve te bevestigen."
+
+#: application/Backend/tmpl/service/jwt.php:130
+msgid "Delete JWT Token"
+msgstr "JWT token verwijderen"
+
+#: application/Backend/tmpl/service/jwt.php:115
+msgid "Use this URL to authenticate account without the need to enter username/password."
+msgstr "Gebruik deze URL om een account te authenticeren zonder gebruikersnaam/wachtwoord in te voeren."
+
+#: application/Backend/tmpl/service/jwt.php:111
+msgid "Passwordless Login URL (with JWT token)"
+msgstr "Wachtwoordloze login URL (met JWT token)"
+
+#: application/Backend/tmpl/service/jwt.php:96
+msgid "View JWT Token"
+msgstr "JWT token bekijken"
+
+#: application/Backend/tmpl/service/jwt.php:80
+msgid "With this URL account will be automatically logged in as long as JWT token is valid."
+msgstr "Met deze URL zal het account automatisch worden ingelogd zolang het JWT token geldig is."
+
+#: application/Backend/tmpl/service/jwt.php:76
+msgid "Passwordless Login URL"
+msgstr "Wachtwoordloze login URL"
+
+#: application/Backend/tmpl/service/jwt.php:66
+#: application/Backend/tmpl/service/jwt.php:101
+msgid "JWT Token (for API request)"
+msgstr "JWT token (voor API request)"
+
+#: application/Backend/tmpl/service/jwt.php:54
+msgid "Whether this token, before expires, can be used to obtain a new token for the same time duration or not."
+msgstr "Of dit token, voordat het vervalt, gebruikt kan worden om een nieuw token voor dezelfde tijdsduur te verkrijgen of niet."
+
+#: application/Backend/tmpl/service/jwt.php:52
+msgid "Is token refreshable?"
+msgstr "Is het token te vernieuwen?"
+
+#: application/Backend/tmpl/service/jwt.php:42
+msgid "JWT Expires"
+msgstr "JWT vervalt"
+
+#: application/Backend/tmpl/service/jwt.php:37
+msgid "Create JWT Token"
+msgstr "JWT token creëeren"
+
+#: application/Backend/tmpl/service/menu.php:150
+msgid "Menu Details"
+msgstr "Menu details"
+
+#: application/Backend/tmpl/service/menu.php:139
+msgid "OK"
+msgstr "OK"
+
+#: application/Backend/tmpl/service/menu.php:134
+msgid "You cannot restrict access to the Dashboard Home page."
+msgstr "Je kan de toegang tot de dashboard homepage niet beperken."
+
+#: application/Backend/tmpl/service/menu.php:130
+msgid "Dashboard Lockdown"
+msgstr "Dashboard lockdown"
+
+#: application/Backend/tmpl/service/menu.php:108
+msgid "Dashboard menu cannot be restricted because it is the default page all users are redirected after login. You can restrict only Dashboard submenus if any."
+msgstr "Het Dashboard menu kan niet worden beperkt omdat het de standaard pagina is die alle gebruikers te zien krijgen na het inloggen. Je kan alleen de submenu's van het Dashboard beperken, als die er zijn."
+
+#: application/Backend/tmpl/service/menu.php:61
+msgid "Menu URI:"
+msgstr "Menu URI:"
+
+#: application/Backend/tmpl/service/post.php:31
+#: application/Backend/tmpl/service/post.php:34
+msgid "Go Back"
+msgstr "Ga terug"
+
+#: application/Backend/tmpl/service/post.php:11
+msgid "Root"
+msgstr "Root"
+
+#: application/Backend/tmpl/service/capability.php:109
+msgid "Delete For All Roles"
+msgstr "Verwijder voor alle rollen"
+
+#: application/Backend/tmpl/service/capability.php:108
+msgid "Delete For %n Only"
+msgstr "Verwijder alleen voor %n"
+
+#: application/Backend/tmpl/service/capability.php:105
+msgid "You are about to delete the %s capability. Any functionality that depends on this capability will no longer be accessible by %n."
+msgstr "Je staat op het punt om de %s capaciteit te verwijderen. Alle functionaliteit die afhankelijk is van deze mogelijkheid zal niet langer toegankelijk zijn door %n."
+
+#: application/Backend/tmpl/service/capability.php:85
+msgid "Update this capability for me too"
+msgstr "Werk dit recht voor mij ook bij"
+
+#: application/Backend/tmpl/service/capability.php:59
+msgid "Also assign this capability to me"
+msgstr "Geef mij ook deze mogelijkheid"
+
+#: application/Backend/tmpl/service/capability.php:55
+#: application/Backend/tmpl/service/capability.php:81
+msgid "Enter Capability"
+msgstr "Recht invoeren"
+
+#: application/Backend/tmpl/service/capability.php:50
+msgid "Create Capability"
+msgstr "Recht aanmaken"
+
+#: application/Backend/tmpl/service/capability.php:37
+msgid "Category"
+msgstr "Categorie"
+
+#: application/Backend/tmpl/service/capability.php:27
+msgid "All Capabilities"
+msgstr "Alle rechten"
+
+#: application/Backend/tmpl/service/capability.php:20
+msgid "Filter"
+msgstr "Filter"
+
+#: application/Backend/tmpl/service/welcome.php:18
+msgid "Go To The \"Get Started\" Page"
+msgstr "Ga naar de \"Aan de slag\" pagina"
+
+#: application/Backend/tmpl/service/welcome.php:16
+msgid "If you are not sure where to start, please check our %s\"Get Started\"%s page to learn more about core concepts that may help you to manage access to your WordPress website more effectively."
+msgstr "Als je niet zeker weet waar je moet beginnen, kijk dan op onze %s\"Aan de slag\"%s pagina voor meer informatie over kernbegrippen die je kunnen helpen om de toegang tot je WordPress website effectiever te beheren."
+
+#: application/Backend/tmpl/service/welcome.php:15
+msgid "AAM is thoroughly tested on the fresh installation of the latest WordPress and in the latest versions of Chrome, Safari, IE, and Firefox. If you have any issues, the most typical cause is a conflict with other plugins or themes."
+msgstr "AAM is grondig getest op de verse installatie van de nieuwste WordPress en in de nieuwste versies van Chrome, Safari, IE, en Firefox. Indien je problemen ondervindt, is de meest voor de hand liggende oorzaak een conflict met andere plugins of thema's."
+
+#: application/Backend/tmpl/service/welcome.php:14
+msgid "Note!"
+msgstr "Attentie!"
+
+#: application/Backend/tmpl/service/welcome.php:13
+msgid "Thank you for using the Advanced Access Manager (aka AAM) plugin. With strong knowledge and experience in WordPress core, AAM becomes a very powerful collection of services to manage access to the website frontend, backend, and RESTful API."
+msgstr "Dank je voor het gebruik van de Advanced Access Manager (aka AAM) plugin. Met sterke kennis en ervaring in WordPress core, wordt AAM een zeer krachtige verzameling van diensten om de toegang tot de website front-end, backend, en RESTful API te beheren."
+
+#: application/Backend/tmpl/service/404redirect.php:38
+#: application/Backend/tmpl/service/login-redirect.php:37
+#: application/Backend/tmpl/service/logout-redirect.php:37
+msgid "WordPress default behavior"
+msgstr "WordPress standaard gedrag"
+
+#: application/Backend/tmpl/service/metabox.php:140
+msgid "Internal ID"
+msgstr "Interne ID"
+
+#: application/Backend/tmpl/service/metabox.php:136
+msgid "Screen ID"
+msgstr "Scherm ID"
+
+#: application/Backend/tmpl/service/metabox.php:132
+#: application/Backend/tmpl/service/policy.php:82
+#: application/Backend/tmpl/service/post.php:21
+msgid "Title"
+msgstr "Titel"
+
+#: application/Backend/tmpl/service/metabox.php:126
+msgid "Metabox/Widget Details"
+msgstr "Metabox/widget details"
+
+#: application/Backend/tmpl/service/metabox.php:110
+msgid "Insert valid URL"
+msgstr "Geldige URL invoegen"
+
+#: application/Backend/tmpl/service/metabox.php:109
+msgid "Backend page URL"
+msgstr "Back-end pagina URL"
+
+#: application/Backend/tmpl/service/metabox.php:106
+msgid "Some metaboxes are \"conditional\" and appear on the edit screen when certain conditions are met. For example metabox \"Comments\" appears only for existing page and not for new page. If you do not see a desired metabox, try to copy & paste the full URL to the backend page where that metabox appears."
+msgstr "Sommige metaboxen zijn \"voorwaardelijk\" en verschijnen op het bewerkingsscherm als aan bepaalde voorwaarden is voldaan. Bijvoorbeeld metabox \"Reacties\" verschijnt alleen voor bestaande pagina's en niet voor nieuwe pagina's. Als je een gewenste metabox niet ziet, probeer dan de volledige URL te kopiëren & plakken naar de back-end pagina waar die metabox verschijnt."
+
+#: application/Backend/tmpl/service/metabox.php:102
+msgid "Initialize URL"
+msgstr "Initialiseer URL"
+
+#: application/Backend/tmpl/service/metabox.php:91
+msgid "The list is not initialized. Click Refresh button above."
+msgstr "De lijst is niet geïnitialiseerd. Klik op de knop Vernieuwen hierboven."
+
+#: application/Backend/tmpl/service/metabox.php:17
+msgid "Init URL"
+msgstr "Init URL"
+
+#: application/Backend/tmpl/service/metabox.php:16
+msgid "Refresh"
+msgstr "Verversen"
+
+#: application/Backend/tmpl/service/policy.php:24
+msgid "Reset To Default"
+msgstr "Herstel naar standaard"
+
+#: application/Backend/tmpl/service/policy.php:23
+msgid "Policies are customized"
+msgstr "Beleidsregels zijn aangepast"
+
+#: application/Backend/tmpl/service/route.php:31
+msgid "Deny"
+msgstr "Weigeren"
+
+#: application/Backend/tmpl/service/route.php:30
+msgid "Route"
+msgstr "Route"
+
+#: application/Backend/tmpl/service/route.php:29
+msgid "Method"
+msgstr "Methode"
+
+#: application/Backend/tmpl/service/route.php:18
+msgid "Routes are customized"
+msgstr "Routes zijn aangepast"
+
+#: application/Backend/tmpl/service/capability.php:39
+#: application/Backend/tmpl/service/jwt.php:24
+#: application/Backend/tmpl/service/policy.php:36
+#: application/Backend/tmpl/service/post.php:22
+#: application/Backend/tmpl/service/uri.php:146
+msgid "Actions"
+msgstr "Acties"
+
+#: application/Backend/tmpl/service/uri.php:143
+msgid "Type"
+msgstr "Type"
+
+#: application/Backend/tmpl/service/uri.php:125
+msgid "You are about to delete the URI Rule. Please confirm!"
+msgstr "Je staat op het punt de URI regel te verwijderen. Gelieve te bevestigen!"
+
+#: application/Backend/tmpl/service/uri.php:120
+msgid "Delete URI Rule"
+msgstr "Verwijder URI regel"
+
+#: application/Backend/tmpl/service/uri.php:98
+msgid "307 - Temporary Redirect"
+msgstr "307 - tijdelijke doorverwijzing"
+
+#: application/Backend/tmpl/service/uri.php:96
+msgid "302 - Found"
+msgstr "302 - gevonden"
+
+#: application/Backend/tmpl/service/uri.php:94
+msgid "HTTP Code (Default 307)"
+msgstr "HTTP Code (standaard 307)"
+
+#: application/Backend/tmpl/service/uri.php:87
+msgid "The Valid Redirect URL"
+msgstr "De geldige doorverwijzing URL"
+
+#: application/Backend/tmpl/service/uri.php:39
+msgid "Allow Access"
+msgstr "Toegang toestaan"
+
+#: application/Backend/tmpl/service/uri.php:35
+msgid "How to redirect user when match?"
+msgstr "Hoe de gebruiker doorverwijzen bij een overeenkomst?"
+
+#: application/Backend/tmpl/service/uri.php:27
+msgid "URI Access Rule"
+msgstr "URI toegangsregel"
+
+#: application/Backend/tmpl/service/redirect.php:75
+#: application/Backend/tmpl/service/redirect.php:127
+#: application/Backend/tmpl/service/uri.php:70
+msgid "Enter message..."
+msgstr "Bericht invoeren..."
+
+#: application/Backend/tmpl/service/redirect.php:74
+#: application/Backend/tmpl/service/redirect.php:126
+#: application/Backend/tmpl/service/uri.php:69
+msgid "Customized Message"
+msgstr "Aangepast bericht"
+
+#: application/Backend/tmpl/service/redirect.php:38
+msgid "Backend Redirect"
+msgstr "Back-end doorverwijzing"
+
+#: application/Backend/tmpl/service/redirect.php:37
+msgid "Frontend Redirect"
+msgstr "Front-end doorverwijzing"
+
+#: application/Backend/tmpl/service/toolbar.php:118
+msgid "The list of top admin bar items is not initialized. Reload the page."
+msgstr "De lijst met items in de beheerderbalk bovenaan is niet geïnitialiseerd. Herlaad de pagina."
+
+#: application/Backend/tmpl/service/menu.php:168
+#: application/Backend/tmpl/service/toolbar.php:101 media/js/aam.js:784
+msgid "ID"
+msgstr "ID"
+
+#: application/Backend/tmpl/service/menu.php:164
+#: application/Backend/tmpl/service/toolbar.php:97
+#: application/Backend/tmpl/service/uri.php:142
+msgid "URI"
+msgstr "URI"
+
+#: application/Backend/tmpl/service/menu.php:156
+#: application/Backend/tmpl/service/toolbar.php:93
+msgid "Name"
+msgstr "Naam"
+
+#: application/Backend/tmpl/service/toolbar.php:87
+msgid "Item Details"
+msgstr "Item details"
+
+#: application/Backend/tmpl/service/menu.php:81
+#: application/Backend/tmpl/service/metabox.php:74
+#: application/Backend/tmpl/service/toolbar.php:57
+msgid "more details"
+msgstr "meer details"
+
+#: application/Backend/tmpl/service/toolbar.php:46
+msgid "Item ID:"
+msgstr "Item ID:"
+
+#: application/Backend/tmpl/partial/login-form.php:90
+msgid "Log Out"
+msgstr "Uitloggen"
+
+#: application/Backend/tmpl/partial/login-form.php:88
+msgid "Edit My Profile"
+msgstr "Mijn profiel bewerken"
+
+#: application/Backend/tmpl/partial/login-form.php:87
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: application/Backend/tmpl/partial/login-form.php:40
+msgid "Lost your password?"
+msgstr "Je wachtwoord verloren?"
+
+#: application/Backend/tmpl/partial/login-form.php:35
+msgid "Register"
+msgstr "Registreren"
+
+#: application/Backend/tmpl/partial/login-form.php:27
+msgid "Log In"
+msgstr "Inloggen"
+
+#: application/Backend/tmpl/partial/login-form.php:22
+msgid "Remember Me"
+msgstr "Onthoud mij"
+
+#: application/Backend/tmpl/partial/login-form.php:7
+msgid "Username or Email Address"
+msgstr "Gebruikersnaam of e-mailadres"
+
+#: application/Backend/tmpl/widget/login-backend.php:15
+msgid "For more advanced setup like login/logout redirects, security enhancement or custom styling, please refer to %sHow does AAM Secure Login works%s article."
+msgstr "Voor meer geavanceerde instellingen zoals inloggen/uitloggen doorverwijzingen, veiligheidsverbetering of aangepaste styling, zie het %sHoe AAM beveiligd inloggen werkt%s artikel."
+
+#: application/Backend/tmpl/widget/login-backend.php:10
+msgid "Logged In Title"
+msgstr "Ingelogd titel"
+
+#: application/Backend/tmpl/widget/login-backend.php:5
+msgid "Login Title"
+msgstr "Login titel"
+
+#: application/Backend/tmpl/partial/visitor-principal-subject-tab.php:13
+msgid "Attach current access &amp; security policy to visitors (any user that is not authenticated)"
+msgstr "Bevestig huidige toegang &amp; veiligheidsbeleid aan bezoekers (elke gebruiker die niet geauthenticeerd is)"
+
+#: application/Backend/tmpl/partial/role-inheritance.php:13
+msgid "Also clone all AAM access settings (admin menu, metaboxes, redirects, etc.)"
+msgstr "Kloon ook alle AAM toegangsinstellingen (beheerder menu, metaboxen, doorverwijzingen, enz.)"
+
+#: application/Backend/tmpl/partial/role-inheritance.php:5
+msgid "Inherit capabilities from"
+msgstr "Erven mogelijkheden van"
+
+#: application/Backend/tmpl/partial/post-access-form.php:264
+msgid "Expiration Date/Time"
+msgstr "Verval datum/tijd"
+
+#: application/Backend/tmpl/partial/post-access-form.php:248
+msgid "Enter Password"
+msgstr "Wachtwoord invoeren"
+
+#: application/Backend/tmpl/partial/post-access-form.php:220
+#: application/Backend/tmpl/service/uri.php:92
+msgid "HTTP Redirect Code"
+msgstr "HTTP doorverwijzing code"
+
+#: application/Backend/tmpl/partial/post-access-form.php:216
+#: application/Backend/tmpl/service/redirect.php:100
+#: application/Backend/tmpl/service/redirect.php:152
+msgid "Enter valid callback"
+msgstr "Geldig callback invoeren"
+
+#: application/Backend/tmpl/partial/post-access-form.php:215
+#: application/Backend/tmpl/service/404redirect.php:74
+#: application/Backend/tmpl/service/login-redirect.php:73
+#: application/Backend/tmpl/service/logout-redirect.php:73
+#: application/Backend/tmpl/service/redirect.php:99
+#: application/Backend/tmpl/service/redirect.php:151
+#: application/Backend/tmpl/service/uri.php:103
+msgid "PHP Callback Function"
+msgstr "PHP Callback functie"
+
+#: application/Backend/tmpl/partial/post-access-form.php:210
+#: application/Backend/tmpl/service/404redirect.php:69
+#: application/Backend/tmpl/service/login-redirect.php:68
+#: application/Backend/tmpl/service/logout-redirect.php:68
+#: application/Backend/tmpl/service/redirect.php:94
+#: application/Backend/tmpl/service/redirect.php:146
+msgid "The URL"
+msgstr "De URL"
+
+#: application/Backend/tmpl/partial/post-access-form.php:204
+#: application/Backend/tmpl/service/404redirect.php:63
+#: application/Backend/tmpl/service/login-redirect.php:62
+#: application/Backend/tmpl/service/logout-redirect.php:62
+#: application/Backend/tmpl/service/redirect.php:88
+#: application/Backend/tmpl/service/redirect.php:140
+#: application/Backend/tmpl/service/uri.php:81
+msgid "-- Select Page --"
+msgstr "-- Selecteer pagina --"
+
+#: application/Backend/tmpl/partial/post-access-form.php:173
+msgid "Use REDIRECT option only if you want to redirect user to a different location either temporary or permanently. Do not use it as a way to protect access to avoid inconsistent user experience."
+msgstr "Gebruik de DOORVERWIJZEN optie alleen als je de gebruiker tijdelijk of permanent wilt doorverwijzen naar een andere locatie. Gebruik het niet als een manier om toegang te beveiligen om een inconsistente gebruikerservaring te vermijden."
+
+#: application/Backend/tmpl/partial/post-access-form.php:170
+msgid "Access Redirect"
+msgstr "Toegang doorverwijzen"
+
+#: application/Backend/tmpl/partial/post-access-form.php:145
+msgid "Enter digital number"
+msgstr "Digitaal nummer invoeren"
+
+#: application/Backend/tmpl/partial/post-access-form.php:144
+msgid "Access Limit Threshold"
+msgstr "Toegangslimiet drempel"
+
+#: application/Backend/tmpl/partial/post-access-form.php:140
+msgid "Define Access Limit"
+msgstr "Definieer toegangslimiet"
+
+#: application/Backend/tmpl/partial/post-access-form.php:123
+msgid "Enter your teaser message..."
+msgstr "Je teaser bericht invoeren..."
+
+#: application/Backend/tmpl/partial/post-access-form.php:122
+msgid "Plain text or valid HTML"
+msgstr "Platte tekst of geldige HTML"
+
+#: application/Backend/tmpl/partial/post-access-form.php:37
+msgid "change"
+msgstr "wijzig"
+
+#: application/Backend/tmpl/partial/post-access-form.php:14
+#: application/Backend/tmpl/service/404redirect.php:27
+#: application/Backend/tmpl/service/login-redirect.php:26
+#: application/Backend/tmpl/service/logout-redirect.php:26
+#: application/Backend/tmpl/service/menu.php:25
+#: application/Backend/tmpl/service/metabox.php:24
+#: application/Backend/tmpl/service/redirect.php:28
+#: application/Backend/tmpl/service/route.php:19
+#: application/Backend/tmpl/service/toolbar.php:17
+#: application/Backend/tmpl/service/uri.php:17
+msgid "Reset to default"
+msgstr "Herstel naar standaard"
+
+#: application/Backend/tmpl/partial/post-access-form.php:13
+#: application/Backend/tmpl/service/404redirect.php:26
+#: application/Backend/tmpl/service/login-redirect.php:25
+#: application/Backend/tmpl/service/logout-redirect.php:25
+#: application/Backend/tmpl/service/menu.php:24
+#: application/Backend/tmpl/service/metabox.php:23
+#: application/Backend/tmpl/service/redirect.php:27
+#: application/Backend/tmpl/service/toolbar.php:16
+#: application/Backend/tmpl/service/uri.php:16
+msgid "Settings are customized"
+msgstr "Instellingen zijn aangepast"
+
+#: application/Backend/tmpl/partial/default-subject-tab.php:6
+msgid "Manage Default Access"
+msgstr "Standaard toegang beheren"
+
+#: application/Backend/tmpl/partial/default-subject-tab.php:5
+msgid "Manage default access to your website resources for all users, roles and visitor. This includes Administrator role and your user"
+msgstr "Beheer de standaardtoegang tot je websitehulpbronnen voor alle gebruikers, rollen en bezoekers. Dit omvat de rol van beheerder en je gebruiker"
+
+#: application/Backend/tmpl/partial/term-access-form.php:9
+#: application/Backend/tmpl/partial/term-access-form.php:13
+msgid "tag"
+msgstr "tag"
+
+#: application/Backend/tmpl/partial/term-access-form.php:9
+#: application/Backend/tmpl/partial/term-access-form.php:13
+msgid "category"
+msgstr "categorie"
+
+#: application/Backend/tmpl/partial/visitor-subject-tab.php:6
+msgid "Manage Visitors"
+msgstr "Beheer bezoekers"
+
+#: application/Backend/tmpl/partial/visitor-subject-tab.php:5
+msgid "Manage access to your website for visitors (any user that is not authenticated)"
+msgstr "Beheer de toegang tot je website voor bezoekers (elke gebruiker die niet geauthenticeerd is)"
+
+#: application/Backend/tmpl/partial/jwt-login-url.php:12
+msgid "Request URL"
+msgstr "Request URL"
+
+#: application/Backend/tmpl/partial/jwt-login-url.php:10
+msgid "Login URL has not been requested"
+msgstr "Login URL werd niet aangevraagd"
+
+#: application/Backend/tmpl/partial/jwt-login-url.php:7
+#: application/Backend/tmpl/service/jwt.php:67
+#: application/Backend/tmpl/service/jwt.php:77
+#: application/Backend/tmpl/service/jwt.php:102
+#: application/Backend/tmpl/service/jwt.php:112
+msgid "Copy to clipboard"
+msgstr "Kopieer naar klembord"
+
+#: application/Backend/tmpl/partial/jwt-login-url.php:6
+msgid "Login with URL"
+msgstr "Login met URL"
+
+#: application/Backend/tmpl/settings/service.php:11
+msgid "Status"
+msgstr "Status"
+
+#: application/Backend/tmpl/settings/service.php:10
+msgid "Service Name/Description"
+msgstr "Dienstnaam / beschrijving"
+
+#: application/Backend/tmpl/settings/content.php:24
+msgid "There are no settings associated with content service."
+msgstr "Er zijn geen instellingen verbonden aan de inhoudsdienst."
+
+#: application/Backend/tmpl/settings/configpress.php:8
+msgid "Fore more information about AAM configurations check %sAAM Configurations%s article."
+msgstr "Voor meer informatie over AAM configuraties, zie %sAAM Configuraties%s artikel."
+
+#: application/Backend/tmpl/page/addon-panel.php:121
+msgid "The plugin has been successfully downloaded from our server."
+msgstr "De plugin is succesvol gedownload van onze server."
+
+#: application/Backend/tmpl/page/addon-panel.php:117
+msgid "Plugin Installation"
+msgstr "Plugin installatie"
+
+#: application/Backend/tmpl/page/addon-panel.php:100
+msgid "Insert license key that you received after the payment (find the email example below). It might take up to 2 hours to process the payment."
+msgstr "Voer de licentiesleutel in die je na de betaling hebt ontvangen (zie het e-mailvoorbeeld hieronder). Het kan tot 2 uur duren om de betaling te verwerken."
+
+#: application/Backend/tmpl/page/addon-panel.php:96
+msgid "License Key Info"
+msgstr "Licentiesleutel info"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:164
+#: application/Backend/tmpl/page/addon-panel.php:80
+msgid "Read More"
+msgstr "Lees meer"
+
+#: application/Backend/tmpl/page/addon-panel.php:78
+msgid "Inactive"
+msgstr "Inactief"
+
+#: application/Backend/tmpl/page/addon-panel.php:76
+msgid "Active"
+msgstr "Actief"
+
+#: application/Backend/tmpl/page/addon-panel.php:66
+msgid "unregistered version"
+msgstr "ongeregistreerde versie"
+
+#: application/Backend/tmpl/page/addon-panel.php:64
+#: application/Backend/tmpl/page/addon-panel.php:66
+msgid "License"
+msgstr "Licentie"
+
+#: application/Backend/tmpl/page/addon-panel.php:51
+msgid "Premium"
+msgstr "Premium"
+
+#: application/Backend/tmpl/page/addon-panel.php:28
+msgid "Enter The License Key"
+msgstr "Licentiesleutel invoeren"
+
+#: application/Backend/tmpl/page/addon-panel.php:32
+msgid "Download Addon"
+msgstr "Download add-on"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:112
+msgid "Change To Role"
+msgstr "Wissele naar rol"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:101
+msgid "Change User Role"
+msgstr "Wijzig gebruikersrol"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:100
+msgid "Delete Account"
+msgstr "Verwijder account"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:99
+msgid "Logout User"
+msgstr "Gebruiker afmelden"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:98
+msgid "Select Action"
+msgstr "Selecteer actie"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:95
+msgid "Action After Expiration"
+msgstr "Actie na vervallen"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:86
+msgid "Define for how long user can access the website and what action needs to be taken after access expires."
+msgstr "Bepaal hoe lang de gebruiker toegang heeft tot de website en welke actie moet worden ondernomen nadat de toegang is verlopen."
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:68
+msgid "Are you sure that you want to delete the %s role?"
+msgstr "Weet je zeker dat je de %s rol wilt verwijderen?"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:38
+msgid "Update Role"
+msgstr "Rol bijwerken"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:21
+#: application/Backend/tmpl/page/subject-panel-advanced.php:43
+msgid "Enter Role Name"
+msgstr "Rol naam ingeven"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:20
+#: application/Backend/tmpl/page/subject-panel-advanced.php:42
+msgid "Role Name"
+msgstr "Rol naam"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:16
+msgid "Create Role"
+msgstr "Rol aanmaken"
+
+#: application/Backend/tmpl/page/main-panel.php:33
+msgid "You are not allowed to manage any of the existing services."
+msgstr "Je mag geen van de bestaande diensten beheren."
+
+#: application/Backend/tmpl/page/subject-panel.php:83
+msgid "You are not allowed to manage any of the existing users, roles, visitors or default access settings."
+msgstr "Je mag geen van de bestaande gebruikers, rollen, bezoekers of standaard toegangsinstellingen beheren."
+
+#: application/Backend/tmpl/page/subject-panel.php:61
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: application/Backend/tmpl/page/subject-panel.php:46
+#: application/Backend/tmpl/page/subject-panel.php:62
+msgid "Action"
+msgstr "Actie"
+
+#: application/Backend/tmpl/page/subject-panel.php:33
+msgid "None"
+msgstr "Geen"
+
+#: application/Backend/tmpl/page/subject-panel.php:30
+msgid "Default"
+msgstr "Standaard"
+
+#: application/Backend/tmpl/page/subject-panel.php:14
+msgid "Users/Roles Manager"
+msgstr "Gebruikers/rollen beheer"
+
+#: application/Backend/Manager.php:123
+msgid "There was at least one error detected with the automated migration script. %sDownload the log%s for more details and contact our support at %ssupport@aamplugin.com%s for further assistance."
+msgstr "Er is ten minste één fout gedetecteerd met het geautomatiseerde migratiescript. %sDownload het log%s voor meer details en neem contact op met onze ondersteuning via %ssupport@aamplugin.com%s voor verdere hulp."
+
+#: application/Backend/View/PostOptionList.php:102
+msgid "Restrict the ability to publish the post. User will be allowed only to submit the post for review."
+msgstr "Beperk de mogelijkheid om het bericht te publiceren. De gebruiker mag het bericht alleen ter beoordeling indienen."
+
+#: application/Backend/View/PostOptionList.php:92
+msgid "Restrict access to edit the post."
+msgstr "Beperk toegang tot het bewerken van het bericht."
+
+#: application/Backend/View/PostOptionList.php:84
+msgid "After"
+msgstr "Na"
+
+#: application/Backend/View/PostOptionList.php:83
+msgid "Access Expires"
+msgstr "Toegang verloopt"
+
+#: application/Backend/View/PostOptionList.php:73
+msgid "Redirect user based on the defined redirect rule when user tries to access the post. The REDIRECT option has lower precedence and will be ignored if RESTRICTED option is checked."
+msgstr "Leid de gebruiker om op basis van de gedefinieerde doorverwijzingsregel wanneer de gebruiker de post probeert te openen. De DOORVERWIJZING optie heeft lagere prioriteit en zal genegeerd worden als BEVEILIGD optie is aangevinkt."
+
+#: application/Backend/View/PostOptionList.php:70
+msgid "Destination"
+msgstr "Bestemming"
+
+#: application/Backend/View/PostOptionList.php:66
+msgid "Restrict access to leave comments for the post."
+msgstr "Beperk de toegang om reacties op het bericht achter te laten."
+
+#: application/Backend/View/PostOptionList.php:64
+msgid "Leave Comments"
+msgstr "Reacties achterlaten"
+
+#: application/Backend/View/PostOptionList.php:58
+msgid "Access Limit"
+msgstr "Toegangslimiet"
+
+#: application/Backend/View/PostOptionList.php:57
+msgid "Limited"
+msgstr "Gelimiteerd"
+
+#: application/Backend/View/PostOptionList.php:54
+msgid "Dynamically replace the post content with defined plain text or HTML teaser message."
+msgstr "Vervang de inhoud van het bericht dynamisch door een gedefinieerd teaserbericht in platte tekst of HTML."
+
+#: application/Backend/View/PostOptionList.php:51
+msgid "Message"
+msgstr "Bericht"
+
+#: application/Backend/View/PostOptionList.php:47
+msgid "Restrict direct access to the post. Any attempt to access the post will be denied and redirected based on the Access Denied Redirect rule."
+msgstr "Beperk directe toegang tot het bericht. Elke poging om toegang te krijgen tot het bericht zal worden geweigerd en omgeleid op basis van de toegang geweigerd doorverwijzingsregel."
+
+#: application/Backend/View/PostOptionList.php:45
+msgid "Restricted"
+msgstr "Beveiligd"
+
+#: application/Backend/View/PostOptionList.php:42
+msgid "Completely hide the post however, still allow direct access with the valid URL."
+msgstr "Verberg het bericht volledig, maar laat nog steeds directe toegang toe met de geldige URL."
+
+#: application/Backend/tmpl/partial/post-access-form.php:77
+#: application/Backend/tmpl/partial/post-access-form.php:88
+#: application/Backend/tmpl/partial/post-access-form.php:99
+#: application/Backend/View/PostOptionList.php:39
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: application/Backend/View/Localization.php:150 media/js/aam.js:5312
+msgid "Operation completed successfully"
+msgstr "Operatie succesvol afgerond"
+
+#: application/Backend/View/Localization.php:149 media/js/aam.js:5234
+msgid "Failed to save data to clipboard"
+msgstr "Het opslaan van de gegevens naar het klembord is mislukt"
+
+#: application/Backend/View/Localization.php:148 media/js/aam.js:5230
+msgid "Data has been saved to clipboard"
+msgstr "Gegevens zijn opgeslagen op het klembord"
+
+#: application/Backend/View/Localization.php:144 media/js/aam.js:4599
+msgid "All settings has been cleared successfully"
+msgstr "Alle instellingen zijn met succes leeggemaakt"
+
+#: application/Backend/tmpl/settings/content.php:19
+#: application/Backend/tmpl/settings/core.php:16
+#: application/Backend/tmpl/settings/security.php:16
+#: application/Backend/View/Localization.php:143 media/js/aam.js:4561
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: application/Backend/tmpl/settings/content.php:19
+#: application/Backend/tmpl/settings/core.php:16
+#: application/Backend/tmpl/settings/security.php:16
+#: application/Backend/View/Localization.php:142 media/js/aam.js:4561
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: application/Backend/View/Localization.php:141 media/js/aam.js:4549
+msgid "_TOTAL_ service(s)"
+msgstr "_TOTAL_ dienst(en)"
+
+#: application/Backend/View/Localization.php:140 media/js/aam.js:4548
+msgid "Search Service"
+msgstr "Zoek diensten"
+
+#: application/Backend/View/Localization.php:139 media/js/aam.js:4223
+msgid "Creating..."
+msgstr "Aanmaken..."
+
+#: application/Backend/View/Localization.php:138 media/js/aam.js:4198
+msgid "View Token"
+msgstr "Bekijk token"
+
+#: application/Backend/View/Localization.php:137 media/js/aam.js:4185
+msgid "Delete Token"
+msgstr "Verwijder token"
+
+#: application/Backend/View/Localization.php:136 media/js/aam.js:4141
+msgid "No JWT tokens have been generated."
+msgstr "Er zijn geen JWT tokens gegenereerd."
+
+#: application/Backend/View/Localization.php:135 media/js/aam.js:4139
+msgid "_TOTAL_ token(s)"
+msgstr "_TOTAL_ token(s)"
+
+#: application/Backend/View/Localization.php:134 media/js/aam.js:4042
+msgid "Generating token..."
+msgstr "Genereren van token..."
+
+#: application/Backend/View/Localization.php:133 media/js/aam.js:3996
+msgid "Allowed"
+msgstr "Toegestaan"
+
+#: application/Backend/View/Localization.php:132 media/js/aam.js:3991
+msgid "Callback"
+msgstr "Callback"
+
+#: application/Backend/View/Localization.php:131 media/js/aam.js:3986
+msgid "Redirected"
+msgstr "Doorverwezen"
+
+#: application/Backend/View/Localization.php:130 media/js/aam.js:3979
+msgid "Denied"
+msgstr "Geweigerd"
+
+#: application/Backend/View/Localization.php:129 media/js/aam.js:3955
+msgid "Delete Rule"
+msgstr "Verwijder regel"
+
+#: application/Backend/View/Localization.php:127 media/js/aam.js:3893
+msgid "_TOTAL_ URI(s)"
+msgstr "_TOTAL_ URI(s)"
+
+#: application/Backend/View/Localization.php:126 media/js/aam.js:3856
+msgid "Failed to delete URI rule"
+msgstr "Het verwijderen van de URI regel is mislukt"
+
+#: application/Backend/View/Localization.php:125 media/js/aam.js:3816
+msgid "Failed to save URI rule"
+msgstr "Het opslaan van de URI regel is mislukt"
+
+#: application/Backend/View/Localization.php:124 media/js/aam.js:3696
+#: media/js/aam.js:4142 media/js/aam.js:4551
+msgid "Nothing to show"
+msgstr "Niets om te tonen"
+
+#: application/Backend/View/Localization.php:123 media/js/aam.js:3695
+msgid "No API endpoints found. You might have APIs disabled."
+msgstr "Geen API endpoint gevonden. Het is mogelijk dat je APIs uitgeschakeld hebt."
+
+#: application/Backend/View/Localization.php:122 media/js/aam.js:3693
+msgid "_TOTAL_ route(s)"
+msgstr "_TOTAL_ route(s)"
+
+#: application/Backend/View/Localization.php:121 media/js/aam.js:3135
+msgid "Drill-Down"
+msgstr "Drill-Down"
+
+#: application/Backend/View/Localization.php:120 media/js/aam.js:3084
+#: media/js/aam.js:3110
+msgid "Parent"
+msgstr "Hoofd"
+
+#: application/Backend/View/Localization.php:119 media/js/aam.js:3014
+msgid "Customized Settings"
+msgstr "Gepersonaliseerde instellingen"
+
+#: application/Backend/View/Localization.php:118 media/js/aam.js:3003
+msgid "Tag"
+msgstr "Tag"
+
+#: application/Backend/View/Localization.php:117 media/js/aam.js:2998
+msgid "Tag Taxonomy"
+msgstr "Tag taxonomie"
+
+#: application/Backend/View/Localization.php:116 media/js/aam.js:2993
+msgid "Hierarchical Term"
+msgstr "Hiërarchische term"
+
+#: application/Backend/View/Localization.php:115 media/js/aam.js:2988
+msgid "Hierarchical Taxonomy"
+msgstr "Hiërarchische taxonomie"
+
+#: application/Backend/View/Localization.php:114 media/js/aam.js:2983
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: application/Backend/View/Localization.php:113 media/js/aam.js:2276
+msgid "No capabilities"
+msgstr "Geen rechten"
+
+#: application/Backend/tmpl/service/metabox.php:114
+#: application/Backend/View/Localization.php:112 media/js/aam.js:2091
+msgid "Initialize"
+msgstr "Initialiseren"
+
+#: application/Backend/tmpl/service/metabox.php:78
+#: application/Backend/View/Localization.php:111 media/js/aam.js:1935
+#: media/js/aam.js:2124
+msgid "Check to hide"
+msgstr "Vink aan om te verbergen"
+
+#: application/Backend/tmpl/service/metabox.php:78
+#: application/Backend/View/Localization.php:110 media/js/aam.js:1933
+#: media/js/aam.js:2122
+msgid "Uncheck to show"
+msgstr "Ontvinken om te tonen"
+
+#: application/Backend/tmpl/service/menu.php:84
+#: application/Backend/tmpl/service/toolbar.php:60
+#: application/Backend/View/Localization.php:109 media/js/aam.js:1799
+msgid "Check to restrict"
+msgstr "Vink aan om te beveiligen"
+
+#: application/Backend/tmpl/service/menu.php:84
+#: application/Backend/tmpl/service/toolbar.php:60
+#: application/Backend/View/Localization.php:108 media/js/aam.js:1797
+msgid "Uncheck to allow"
+msgstr "Ontvinken om toe te staan"
+
+#: application/Backend/View/Localization.php:106 media/js/aam.js:1473
+msgid "Revoke Policy"
+msgstr "Beleid intrekken"
+
+#: application/Backend/View/Localization.php:105 media/js/aam.js:1453
+msgid "Apply Policy"
+msgstr "Beleid toepassen"
+
+#: application/Backend/View/Localization.php:104 media/js/aam.js:1411
+msgid "_TOTAL_ Policies"
+msgstr "_TOTAL_ beleid"
+
+#: application/Backend/View/Localization.php:103 media/js/aam.js:1410
+msgid "Search Policy"
+msgstr "Zoek beleid"
+
+#: application/Backend/tmpl/partial/default-principal-subject-tab.php:17
+#: application/Backend/View/Localization.php:102 media/js/aam.js:1258
+#: media/js/aam.js:1267
+msgid "Attach Policy To Everybody"
+msgstr "Bevestig beleid aan iedereen"
+
+#: application/Backend/tmpl/partial/default-principal-subject-tab.php:15
+#: application/Backend/View/Localization.php:101 media/js/aam.js:1256
+#: media/js/aam.js:1269
+msgid "Detach Policy From Everybody"
+msgstr "Beleid losmaken van iedereen"
+
+#: application/Backend/View/Localization.php:100 media/js/aam.js:2184
+msgid "WordPress core does not allow to grant this capability"
+msgstr "WordPress core staat niet toe om dit recht toe te kennen"
+
+#: application/Backend/View/Localization.php:96 media/js/aam.js:832
+msgid "Manage user"
+msgstr "Beheer gebruiker"
+
+#: application/Backend/View/Localization.php:95 media/js/aam.js:270
+msgid "Clone role"
+msgstr "Kloon rol"
+
+#: application/Backend/View/Localization.php:94 media/js/aam.js:299
+#: media/js/aam.js:541
+msgid "Delete role"
+msgstr "Rol verwijderen"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:123
+#: application/Backend/tmpl/partial/post-access-form.php:106
+#: application/Backend/tmpl/partial/post-access-form.php:128
+#: application/Backend/tmpl/partial/post-access-form.php:158
+#: application/Backend/tmpl/partial/post-access-form.php:231
+#: application/Backend/tmpl/partial/post-access-form.php:252
+#: application/Backend/tmpl/partial/post-access-form.php:274
+#: application/Backend/tmpl/service/uri.php:108
+#: application/Backend/View/Localization.php:91 media/js/aam.js:1071
+#: media/js/aam.js:3825
+msgid "Save"
+msgstr "Opslaan"
+
+#: application/Backend/View/Localization.php:89 media/js/aam.js:761
+msgid "Filter by role"
+msgstr "Filter op rol"
+
+#: application/Backend/View/Localization.php:85 media/js/aam.js:2190
+msgid "Failed to process request"
+msgstr "Het verwerken van de aanvraag is mislukt"
+
+#: application/Backend/View/Localization.php:84 media/js/aam.js:676
+#: media/js/aam.js:4057
+msgid "Failed to generate JWT token"
+msgstr "Het genereren van JWT token is mislukt"
+
+#: application/Backend/View/Localization.php:83 media/js/aam.js:744
+msgid "Loading roles..."
+msgstr "Rollen aan het laden..."
+
+#: application/Backend/View/Localization.php:82 media/js/aam.js:1170
+#: media/js/aam.js:1245 media/js/aam.js:2088 media/js/aam.js:4593
+#: media/js/aam.js:4663
+msgid "Processing..."
+msgstr "Bezig met verwerken..."
+
+#: application/Backend/View/Localization.php:80 media/js/aam.js:666
+#: media/js/aam.js:4046
+msgid "Generating URL..."
+msgstr "URL aan het generen..."
+
+#: application/Backend/tmpl/partial/visitor-principal-subject-tab.php:23
+#: application/Backend/View/Localization.php:79 media/js/aam.js:1181
+#: media/js/aam.js:1194
+msgid "Detach Policy From Visitors"
+msgstr "Beleid losmaken van bezoekers"
+
+#: application/Backend/tmpl/partial/visitor-principal-subject-tab.php:25
+#: application/Backend/View/Localization.php:78 media/js/aam.js:1183
+#: media/js/aam.js:1192
+msgid "Attach Policy To Visitors"
+msgstr "Bevestig beleid aan bezoekers"
+
+#: application/Backend/View/Localization.php:77 media/js/aam.js:1189
+#: media/js/aam.js:1264 media/js/aam.js:4895
+msgid "Failed to apply policy changes"
+msgstr "Het toepassen van de beleidswijzigingen is mislukt"
+
+#: application/Backend/View/Localization.php:72 media/js/aam.js:735
+msgid "Create New User"
+msgstr "Nieuwe gebruiker aanmaken"
+
+#: application/Backend/View/Localization.php:70 media/js/aam.js:2810
+msgid "Counter was reset successfully"
+msgstr "Teller was succesvol gereset"
+
+#: application/Backend/tmpl/page/current-subject.php:37
+#: application/Backend/tmpl/page/subject-panel-advanced.php:122
+#: application/Backend/tmpl/partial/post-access-form.php:157
+#: application/Backend/View/Localization.php:63 media/js/aam.js:1104
+#: media/js/aam.js:2821 media/js/aam.js:4791
+msgid "Reset"
+msgstr "Reset"
+
+#: application/Backend/View/Localization.php:54 media/js/aam.js:145
+msgid "Create New Role"
+msgstr "Nieuwe rol aanmaken"
+
+#: application/Backend/tmpl/service/capability.php:76
+#: application/Backend/View/Localization.php:45 media/js/aam.js:2479
+msgid "Update Capability"
+msgstr "Rechten bijwerken"
+
+#: application/Backend/View/Localization.php:41
+msgid "Execute Migration"
+msgstr "Migratie uitvoeren"
+
+#: application/Backend/Widget/Login.php:48
+msgid "AAM Secure Login"
+msgstr "AAM beveiligde login"
+
+#: application/Backend/Feature/Subject/User.php:225
+#: application/Backend/Feature/Subject/User.php:250
+#: application/Backend/View/Localization.php:151 media/js/aam.js:5316
+msgid "Unexpected application error"
+msgstr "Onverwachte applicatie fout"
+
+#: application/Backend/Feature/Subject/User.php:92
+msgid "Cannot manage yourself"
+msgstr "Je kan niet jezelf beheren"
+
+#: application/Backend/Feature/Subject/Role.php:317
+msgid "Failed to delete the role"
+msgstr "Verwijderen van de rol is mislukt"
+
+#: application/Backend/Feature/Subject/Role.php:124
+#: application/Backend/Feature/Subject/Role.php:198
+#: application/Backend/Feature/Subject/Role.php:294
+#: application/Backend/Feature/Subject/Role.php:320
+#: application/Backend/Feature/Subject/User.php:80
+msgid "Unauthorized operation"
+msgstr "Onbevoegde operatie"
+
+#: application/Backend/Feature/Settings/Service.php:75
+msgid "Services"
+msgstr "Diensten"
+
+#: application/Backend/Feature/Settings/Core.php:53
+msgid "Render \"Access Manager\" metabox on all post, term or user edit pages."
+msgstr "Toon \"Toegangsbeheer\" metabox op alle bericht, term of gebruiker bewerkingspagina's."
+
+#: application/Backend/Feature/Main/Jwt.php:206
+msgid "Token is no longer valid"
+msgstr "Token is niet langer geldig"
+
+#: application/Backend/Feature/Main/Welcome.php:41
+#: application/Service/Welcome.php:52
+msgid "Welcome"
+msgstr "Welkom"
+
+#: application/Backend/Feature/Main/Toolbar.php:140
+msgid "Toolbar"
+msgstr "Werkbalk"
+
+#: application/Backend/Feature/Main/Post.php:442
+msgid "Login page"
+msgstr "Login pagina"
+
+#: application/Backend/Feature/Main/Post.php:438
+msgid "%s URL"
+msgstr "%s URL"
+
+#: application/Backend/Feature/Main/Post.php:432
+msgid "\"%s\" page"
+msgstr "\"%s\" pagina"
+
+#: application/Backend/Feature/Main/Post.php:410
+msgid "%d times"
+msgstr "%d keren"
+
+#: application/Backend/Feature/Main/Post.php:271
+#: application/Backend/tmpl/service/uri.php:97
+msgid "303 - See Other"
+msgstr "303 - zie andere"
+
+#: application/Backend/Feature/Main/Post.php:270
+#: application/Backend/tmpl/service/uri.php:95
+msgid "301 - Moved Permanently"
+msgstr "301 - permanent verplaatst"
+
+#: application/Backend/Feature/Main/Post.php:269
+msgid "307 - Temporary Redirect (Default)"
+msgstr "307 - tijdelijke doorverwijzing (standaard)"
+
+#: application/Backend/tmpl/service/policy.php:35
+#: application/Service/AccessPolicy.php:203
+msgid "Policy"
+msgstr "Beleid"
+
+#: application/Backend/Widget/Login.php:105
+msgid "Login"
+msgstr "Login"
+
+#: application/Backend/Widget/Login.php:45
+msgid "AAM Secure Login Widget"
+msgstr "AAM beveiligde login widget"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:61
+msgid "Access"
+msgstr "Toegang"
+
+#: application/Backend/tmpl/metabox/term-metabox.php:12
+#: application/Service/Content.php:168
+msgid "Access Manager"
+msgstr "Toegangsbeheer"
+
+#: application/Backend/Feature/Settings/Content.php:61
+msgid "Content Settings"
+msgstr "Inhoud instellingen"
+
+#: application/Backend/Feature/Settings/Core.php:79
+msgid "Core Settings"
+msgstr "Core instellingen"
+
+#: application/Backend/Feature/Settings/Core.php:58
+msgid "Enable support for multiple roles per use. The final access settings will be combined based on the merging preferences. For more information check %sWordPress access control for users with multiple roles%s article."
+msgstr "Ondersteuning inschakelen voor meerdere rollen per gebruik. De uiteindelijke toegangsinstellingen zullen worden gecombineerd op basis van de samenvoeg voorkeuren. Voor meer informatie zie %sWordPress toegangscontrole voor gebruikers met meerdere rollen%s artikel."
+
+#: application/Backend/Feature/Settings/Core.php:57
+msgid "Multiple Roles Support"
+msgstr "Ondersteuning voor meerdere rollen"
+
+#: application/Service/Route.php:104
+msgid "RESTful WordPress API"
+msgstr "RESTful WordPress API"
+
+#: application/Service/Route.php:99
+msgid "XML-RPC WordPress API"
+msgstr "XML-RPC WordPress API"
+
+#: application/Service/SecureLogin.php:62
+msgid "Secure Login"
+msgstr "Beveiligde login"
+
+#: application/Backend/Feature/Settings/Core.php:52
+msgid "Render Access Manager Metabox"
+msgstr "Render Access Manager metabox"
+
+#: application/Backend/Feature/Settings/Core.php:47
+msgid "Edit/Delete Capabilities"
+msgstr "Bewerken/verwijderen rechten"
+
+#: application/Backend/Feature/Settings/Security.php:74
+msgid "Security Settings"
+msgstr "Veiligheidsinstellingen"
+
+#: application/Backend/Feature/Settings/Security.php:52
+msgid "Brute Force Lockout"
+msgstr "Brute force uitsluiting"
+
+#: application/Backend/Feature/Settings/Security.php:47
+msgid "One Session Per User"
+msgstr "Eén sessie per gebruiker"
+
+#: application/Backend/Feature/Main/Capability.php:387
+#: application/Service/Capability.php:50
+msgid "Capabilities"
+msgstr "Rechten"
+
+#: application/Backend/Feature/Main/Capability.php:157
+msgid "Permission denied to delete this capability"
+msgstr "Machtiging geweigerd om dit recht te verwijderen"
+
+#: application/Backend/Feature/Main/Capability.php:121
+msgid "Permission denied to update this capability"
+msgstr "Machtiging geweigerd om dit recht bij te werken"
+
+#: application/Backend/Feature/Main/Capability.php:342
+#: application/Backend/Feature/Main/Capability.php:366
+msgid "AAM Interface"
+msgstr "AAM interface"
+
+#: application/Backend/Feature/Main/Capability.php:341
+#: application/Backend/Feature/Main/Capability.php:364
+#: application/Backend/Feature/Main/Post.php:351
+#: application/Backend/tmpl/partial/post-access-form.php:82
+msgid "Backend"
+msgstr "Back-end"
+
+#: application/Backend/Feature/Main/Redirect.php:75
+#: application/Service/DeniedRedirect.php:74
+msgid "Access Denied Redirect"
+msgstr "Toegang geweigerd doorverwijzing"
+
+#: application/Backend/Feature/Main/Uri.php:167 application/Service/Uri.php:57
+msgid "URI Access"
+msgstr "URI toegang"
+
+#: application/Backend/Feature/Main/Jwt.php:234 application/Service/Jwt.php:82
+msgid "JWT Tokens"
+msgstr "JWT tokens"
+
+#: application/Backend/Feature/Main/Jwt.php:169
+msgid "Failed to revoke JWT token"
+msgstr "Het intrekken van JWT token is mislukt"
+
+#: application/Backend/Feature/Main/Jwt.php:140
+msgid "Failed to register JWT token"
+msgstr "Het registeren van JWT token is mislukt"
+
+#: application/Backend/Feature/Main/Post.php:1206
+#: application/Service/Content.php:122
+msgid "Posts & Terms"
+msgstr "Berichten & termen"
+
+#: application/Backend/tmpl/partial/post-access-form.php:196
+#: application/Backend/tmpl/service/404redirect.php:54
+#: application/Backend/tmpl/service/login-redirect.php:53
+#: application/Backend/tmpl/service/logout-redirect.php:53
+#: application/Backend/tmpl/service/redirect.php:79
+#: application/Backend/tmpl/service/redirect.php:131
+#: application/Backend/tmpl/service/uri.php:74
+msgid "Existing Page"
+msgstr "Bestaande pagina"
+
+#: application/Backend/Feature/Main/404Redirect.php:77
+#: application/Service/NotFoundRedirect.php:54
+msgid "404 Redirect"
+msgstr "404 doorverwijzing"
+
+#: application/Backend/Feature/Main/LogoutRedirect.php:75
+#: application/Service/LogoutRedirect.php:66
+msgid "Logout Redirect"
+msgstr "Uitlog doorverwijzing"
+
+#: application/Backend/Feature/Main/Menu.php:248
+msgid "Backend Menu"
+msgstr "Back-end menu"
+
+#: application/Backend/Feature/Main/Route.php:122
+#: application/Service/Route.php:65
+msgid "API Routes"
+msgstr "API routes"
+
+#: application/Service/Toolbar.php:67
+msgid "Admin Toolbar"
+msgstr "Beheerder werkbalk"
+
+#: application/Backend/Feature/Main/LoginRedirect.php:75
+#: application/Service/LoginRedirect.php:56
+msgid "Login Redirect"
+msgstr "Login doorverwijzen"
+
+#: application/Backend/Feature/Main/Policy.php:239
+msgid "(no title)"
+msgstr "(geen titel)"
+
+#: application/Backend/View/Localization.php:99 media/js/aam.js:616
+#: media/js/aam.js:617 media/js/aam.js:926 media/js/aam.js:937
+msgid "Unlock user"
+msgstr "Gebruiker ontgrendelen"
+
+#: application/Backend/View/Localization.php:98 media/js/aam.js:622
+#: media/js/aam.js:623 media/js/aam.js:902 media/js/aam.js:913
+msgid "Lock user"
+msgstr "Gebruiker vergrendelen"
+
+#: application/Backend/View/Localization.php:97 media/js/aam.js:881
+msgid "Edit user"
+msgstr "Gebruiker bewerken"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:83
+msgid "Manage User"
+msgstr "Gebruiker beheren"
+
+#: application/Backend/View/Localization.php:92 media/js/aam.js:218
+msgid "Manage role"
+msgstr "Rol beheren"
+
+#: application/Backend/View/Localization.php:87
+msgid "Current role"
+msgstr "Huidige rol"
+
+#: application/Backend/View/Localization.php:86
+msgid "Current user"
+msgstr "Huidige gebruiker"
+
+#: application/Backend/tmpl/page/subject-panel.php:45
+#: application/Backend/View/Localization.php:73 media/js/aam.js:781
+#: media/js/aam.js:1553
+msgid "Role"
+msgstr "Rol"
+
+#: application/Backend/View/Localization.php:71 media/js/aam.js:720
+msgid "_TOTAL_ user(s)"
+msgstr "_TOTAL_ gebruiker(s)"
+
+#: application/Backend/View/Localization.php:69 media/js/aam.js:719
+msgid "Search user"
+msgstr "Gebruiker zoeken"
+
+#: application/Backend/View/Localization.php:68 media/js/aam.js:627
+msgid "Failed to lock user"
+msgstr "Het vergelden van de gebruiker is mislukt"
+
+#: application/Backend/View/Localization.php:66 media/js/aam.js:533
+msgid "Failed to delete role"
+msgstr "Verwijderen van de rol is mislukt"
+
+#: application/Backend/View/Localization.php:65 media/js/aam.js:519
+#: media/js/aam.js:1319 media/js/aam.js:2222 media/js/aam.js:3847
+#: media/js/aam.js:4255
+msgid "Deleting..."
+msgstr "Aan het verwijderen ..."
+
+#: application/Backend/View/Localization.php:61 media/js/aam.js:487
+msgid "Failed to update role"
+msgstr "Bijwerken van de rol is mislukt"
+
+#: application/Backend/View/Localization.php:60
+msgid "Add Role"
+msgstr "Rol toevoegen"
+
+#: application/Backend/View/Localization.php:59
+msgid "Failed to add new role"
+msgstr "Het toevoegen van een nieuwe rol is mislukt"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:26
+#: application/Backend/tmpl/service/capability.php:30
+#: application/Backend/tmpl/service/capability.php:64
+#: application/Backend/tmpl/service/jwt.php:84
+#: application/Backend/View/Localization.php:57 media/js/aam.js:1422
+#: media/js/aam.js:3903 media/js/aam.js:4153 media/js/aam.js:4237
+msgid "Create"
+msgstr "Creëer"
+
+#: application/Backend/View/Localization.php:56 media/js/aam.js:129
+msgid "_TOTAL_ role(s)"
+msgstr "_TOTAL_ rol(len)"
+
+#: application/Backend/View/Localization.php:55
+msgid "Search Role"
+msgstr "Rol zoeken"
+
+#: application/Backend/View/Localization.php:53 media/js/aam.js:65
+msgid "No role"
+msgstr "Geen rol"
+
+#: application/Backend/View/Localization.php:52 media/js/aam.js:60
+#: media/js/aam.js:4926
+msgid "Loading..."
+msgstr "Bezig met laden..."
+
+#: application/Backend/View/Localization.php:51
+msgid "Failed"
+msgstr "Mislukt"
+
+#: application/Backend/View/Localization.php:50 media/js/aam.js:2962
+msgid "_TOTAL_ object(s)"
+msgstr "_TOTAL_ object(en)"
+
+#: application/Backend/View/Localization.php:49 media/js/aam.js:2961
+#: media/js/aam.js:3692 media/js/aam.js:3892 media/js/aam.js:4138
+msgid "Search"
+msgstr "Zoeken"
+
+#: application/Backend/View/Localization.php:48 media/js/aam.js:2068
+msgid "Failed to retrieve mataboxes"
+msgstr "Het ophalen van mataboxen is mislukt"
+
+#: application/Backend/tmpl/service/menu.php:102
+#: application/Backend/tmpl/service/toolbar.php:74
+#: application/Backend/View/Localization.php:47 media/js/aam.js:1766
+#: media/js/aam.js:1898
+msgid "Restrict Menu"
+msgstr "Beveiligd menu"
+
+#: application/Backend/tmpl/service/menu.php:98
+#: application/Backend/tmpl/service/toolbar.php:70
+#: application/Backend/View/Localization.php:46 media/js/aam.js:1756
+#: media/js/aam.js:1888
+msgid "Show Menu"
+msgstr "Toon menu"
+
+#: application/Backend/View/Localization.php:43
+msgid "Application error"
+msgstr "Applicatiefout"
+
+#: application/Backend/View/Localization.php:42 media/js/aam.js:2429
+msgid "Failed to add new capability"
+msgstr "Het toevoegen van een nieuw recht is mislukt"
+
+#: application/Backend/View/Localization.php:40 media/js/aam.js:418
+#: media/js/aam.js:480 media/js/aam.js:1057 media/js/aam.js:2421
+#: media/js/aam.js:2463 media/js/aam.js:2727 media/js/aam.js:2748
+#: media/js/aam.js:2767 media/js/aam.js:2838 media/js/aam.js:2860
+#: media/js/aam.js:2879 media/js/aam.js:3807
+msgid "Saving..."
+msgstr "Aan het opslaan..."
+
+#: application/Backend/View/Localization.php:39 media/js/aam.js:2274
+msgid "_TOTAL_ capability(s)"
+msgstr "_TOTAL_ recht(en)"
+
+#: application/Backend/View/Localization.php:38 media/js/aam.js:2273
+msgid "Search Capability"
+msgstr "Zoekmogelijkheden"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:53
+#: application/Backend/tmpl/service/capability.php:90
+#: application/Backend/View/Localization.php:62 media/js/aam.js:496
+msgid "Update"
+msgstr "Bijwerken"
+
+#: application/Backend/View/PostOptionList.php:100
+msgid "Publish"
+msgstr "Publiceren"
+
+#: application/Backend/View/PostOptionList.php:97
+msgid "Restrict access to trash or permanently delete the post."
+msgstr "Beperk de toegang tot de prullenmand of verwijder het bericht permanent."
+
+#: application/Backend/View/PostOptionList.php:87
+msgid "After expiration, the access to the post will be denied and redirected based on the Access Denied Redirect rule. For more information %scheck this article%s or "
+msgstr "Na afloop zal de toegang tot het bericht worden geweigerd en doorverwezen op basis van de toegang geweigerd regel. Voor meer informatie %sbekijk dit artikel%s of "
+
+#: application/Backend/View/PostOptionList.php:87
+msgid "Define when access will expire to the post."
+msgstr "Defineer wanneer toegang zal verlopen tot het bericht."
+
+#: application/Backend/tmpl/service/jwt.php:23
+msgid "Expires"
+msgstr "Vervalt"
+
+#: application/Backend/View/PostOptionList.php:80
+msgid "Protect access to the post with a password. Available with WordPress 4.7.0 or higher."
+msgstr "Beveilig de toegang tot het bericht met een wachtwoord. Beschikbaar met WordPress 4.7.0 of hoger."
+
+#: application/Backend/tmpl/partial/login-form.php:13
+#: application/Backend/tmpl/partial/post-access-form.php:247
+#: application/Backend/View/PostOptionList.php:77
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: application/Backend/tmpl/partial/post-access-form.php:243
+#: application/Backend/View/PostOptionList.php:76
+msgid "Password Protected"
+msgstr "Met wachtwoord beveiligd"
+
+#: application/Backend/View/PostOptionList.php:69
+msgid "Redirect"
+msgstr "Doorverwijzen"
+
+#: application/Backend/View/PostOptionList.php:61
+msgid "Define how many times the post can be accessed. When the number of times exceeds the defined threshold, access will be denied and redirected based on the Access Denied Redirect rule."
+msgstr "Bepaal hoe vaak het bericht kan worden geopend. Wanneer het aantal keren de gedefinieerde drempel overschrijdt, zal de toegang geweigerd worden en doorverwezen worden op basis van de Toegang geweigerd doorverwijzen regel."
+
+#: application/Backend/tmpl/partial/post-access-form.php:118
+#: application/Backend/View/PostOptionList.php:50
+msgid "Teaser Message"
+msgstr "Teaser bericht"
+
+#: application/Backend/Widget/Login.php:109
+msgid "Howdy, %username%"
+msgstr "Howdy, %username%"
+
+#: application/Shortcode/Handler/LoginRedirect.php:86
+msgid "Login to continue"
+msgstr "Log in om door te gaan"
+
+#: application/Service/Content.php:922
+msgid "[No teaser message provided]"
+msgstr "[Geen teaserbericht verstrekt]"
+
+#: application/Service/Route.php:131
+msgid "RESTful API is disabled"
+msgstr "RESTful API is uitgeschakeld"
+
+#: application/Service/AccessPolicy.php:207
+msgid "Access and security policy"
+msgstr "Toegangs- en beveiligingsbeleid"
+
+#: application/Service/AccessPolicy.php:205
+msgid "New Policy"
+msgstr "Nieuw beleid"
+
+#: application/Service/AccessPolicy.php:204
+msgid "Add New Policy"
+msgstr "Nieuw beleid toevoegen"
+
+#: application/Backend/View/Localization.php:107
+#: application/Service/AccessPolicy.php:202 media/js/aam.js:1490
+msgid "Edit Policy"
+msgstr "Bewerk beleid"
+
+#: application/Backend/Feature/Main/Policy.php:510
+#: application/Service/AccessPolicy.php:83
+#: application/Service/AccessPolicy.php:201
+msgid "Access Policies"
+msgstr "Toegangsbeleid"
+
+#: application/Service/AccessPolicy.php:199
+msgid "Access Policy"
+msgstr "Toegangsbeleid"
+
+#: application/Core/Policy/Validator.php:143
+msgid "The policy document is empty"
+msgstr "Het beleidsdocument is leeg"
+
+#: application/Core/Policy/Validator.php:124
+msgid "The policy is not valid JSON object"
+msgstr "Het beleid is geen geldig JSON object"
+
+#: application/Backend/View/Localization.php:76
+#: application/Core/Subject/Default.php:36 media/js/aam.js:1218
+msgid "All Users, Roles and Visitor"
+msgstr "Alle gebruikers, rollen en bezoekers"
+
+#: application/Backend/View/Localization.php:81
+#: application/Core/Subject/Visitor.php:43 media/js/aam.js:1143
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: application/Service/Jwt.php:179 application/Service/Jwt.php:190
+#: application/Service/Jwt.php:203 application/Service/Jwt.php:214
+#: application/Service/Jwt.php:227
+msgid "JWT token."
+msgstr "JWT token."
+
+#: application/Service/SecureLogin.php:201
+msgid "Valid password."
+msgstr "Geldig wachtwoord."
+
+#: application/Service/SecureLogin.php:197
+msgid "Valid username."
+msgstr "Geldige gebruikersnaam."
+
+#: application/Core/Jwt/Issuer.php:74
+msgid "Token has been revoked"
+msgstr "Token is ingetrokken"
+
+#: aam.php:238
+msgid "WP 4.7.0 or higher is required."
+msgstr "WP 4.7.0 of hoger is vereist."
+
+#: aam.php:236
+msgid "PHP 5.6.40 or higher is required."
+msgstr "PHP 5.6.40 of hoger is vereist."
+
+#. Author URI of the plugin
+msgid "https://vasyltech.com"
+msgstr "https://vasyltech.com"
+
+#. Author of the plugin
+msgid "Vasyl Martyniuk <vasyl@vasyltech.com>"
+msgstr "Vasyl Martyniuk <vasyl@vasyltech.com>"
+
+#. Description of the plugin
+msgid "Collection of features to manage your WordPress website authentication, authorization and monitoring"
+msgstr "Verzameling van functies om je WordPress website authenticatie, autorisatie en monitoring te beheren"
+
+#. Plugin Name of the plugin
+msgid "Advanced Access Manager"
+msgstr "Advanced Access Manager"
+
+#: application/Backend/tmpl/service/metabox.php:49
+msgid "Dashboard Widgets"
+msgstr "Dashboardwidgets"
+
+#: application/Backend/View/Localization.php:128 media/js/aam.js:3934
+msgid "Edit Rule"
+msgstr "Regel bewerken"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:133
+#: application/Backend/tmpl/metabox/main-iframe.php:143
+#: application/Backend/tmpl/page/addon-panel.php:95
+#: application/Backend/tmpl/page/addon-panel.php:106
+#: application/Backend/tmpl/page/addon-panel.php:116
+#: application/Backend/tmpl/page/addon-panel.php:129
+#: application/Backend/tmpl/page/current-subject.php:30
+#: application/Backend/tmpl/page/current-subject.php:38
+#: application/Backend/tmpl/page/subject-panel-advanced.php:15
+#: application/Backend/tmpl/page/subject-panel-advanced.php:27
+#: application/Backend/tmpl/page/subject-panel-advanced.php:37
+#: application/Backend/tmpl/page/subject-panel-advanced.php:54
+#: application/Backend/tmpl/page/subject-panel-advanced.php:64
+#: application/Backend/tmpl/page/subject-panel-advanced.php:72
+#: application/Backend/tmpl/page/subject-panel-advanced.php:82
+#: application/Backend/tmpl/page/subject-panel-advanced.php:124
+#: application/Backend/tmpl/partial/post-access-form.php:63
+#: application/Backend/tmpl/partial/post-access-form.php:107
+#: application/Backend/tmpl/partial/post-access-form.php:117
+#: application/Backend/tmpl/partial/post-access-form.php:129
+#: application/Backend/tmpl/partial/post-access-form.php:139
+#: application/Backend/tmpl/partial/post-access-form.php:159
+#: application/Backend/tmpl/partial/post-access-form.php:169
+#: application/Backend/tmpl/partial/post-access-form.php:232
+#: application/Backend/tmpl/partial/post-access-form.php:242
+#: application/Backend/tmpl/partial/post-access-form.php:253
+#: application/Backend/tmpl/partial/post-access-form.php:263
+#: application/Backend/tmpl/partial/post-access-form.php:275
+#: application/Backend/tmpl/service/capability.php:49
+#: application/Backend/tmpl/service/capability.php:65
+#: application/Backend/tmpl/service/capability.php:75
+#: application/Backend/tmpl/service/capability.php:91
+#: application/Backend/tmpl/service/capability.php:101
+#: application/Backend/tmpl/service/capability.php:110
+#: application/Backend/tmpl/service/jwt.php:36
+#: application/Backend/tmpl/service/jwt.php:85
+#: application/Backend/tmpl/service/jwt.php:95
+#: application/Backend/tmpl/service/jwt.php:119
+#: application/Backend/tmpl/service/jwt.php:129
+#: application/Backend/tmpl/service/jwt.php:137
+#: application/Backend/tmpl/service/menu.php:129
+#: application/Backend/tmpl/service/menu.php:149
+#: application/Backend/tmpl/service/menu.php:175
+#: application/Backend/tmpl/service/metabox.php:101
+#: application/Backend/tmpl/service/metabox.php:115
+#: application/Backend/tmpl/service/metabox.php:125
+#: application/Backend/tmpl/service/metabox.php:147
+#: application/Backend/tmpl/service/policy.php:50
+#: application/Backend/tmpl/service/policy.php:58
+#: application/Backend/tmpl/service/policy.php:68
+#: application/Backend/tmpl/service/policy.php:98
+#: application/Backend/tmpl/service/toolbar.php:86
+#: application/Backend/tmpl/service/toolbar.php:108
+#: application/Backend/tmpl/service/uri.php:26
+#: application/Backend/tmpl/service/uri.php:109
+#: application/Backend/tmpl/service/uri.php:119
+#: application/Backend/tmpl/service/uri.php:131
+msgid "Close"
+msgstr "Sluiten"
+
+#: application/Backend/View/Localization.php:88
+#: application/Service/Core.php:115 media/js/aam.js:3149
+msgid "Manage Access"
+msgstr "Toegang beheren"
+
+#: application/Backend/View/Localization.php:44 media/js/aam.js:2437
+msgid "Add Capability"
+msgstr "Recht toevoegen"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:114
+#: application/Backend/tmpl/partial/role-inheritance.php:7
+#: application/Backend/View/Localization.php:146 media/js/aam.js:4931
+msgid "Select Role"
+msgstr "Selecteer rol"
+
+#: application/Backend/tmpl/service/capability.php:102
+msgid "Delete Capability"
+msgstr "Recht verwijderen"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:65
+#: application/Backend/View/Localization.php:67
+msgid "Delete Role"
+msgstr "Verwijder rollen"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:150
+#: application/Backend/View/Localization.php:145 media/js/aam.js:4611
+msgid "Clear"
+msgstr "Leegmaken"
+
+#: application/Backend/tmpl/page/subject-panel-advanced.php:71
+#: application/Backend/tmpl/service/jwt.php:136
+#: application/Backend/tmpl/service/uri.php:130
+#: application/Backend/View/PostOptionList.php:95 media/js/aam.js:3865
+#: media/js/aam.js:4269
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: application/Backend/View/Localization.php:90
+#: application/Backend/View/PostOptionList.php:90 media/js/aam.js:3161
+msgid "Edit"
+msgstr "Bewerken"
+
+#: application/Backend/tmpl/metabox/main-iframe.php:151
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: application/Backend/Subject.php:196
+msgid "You are not allowed to manage any AAM subject"
+msgstr "Je hebt geen toestemming om enig AAM onderwerp te beheren"
+
+#: application/Backend/Feature/Main/Capability.php:340
+#: application/Backend/Feature/Main/Capability.php:362
+msgid "Posts & Pages"
+msgstr "Berichten & pagina's"
+
+#: application/Backend/tmpl/service/capability.php:38
+#: application/Backend/tmpl/service/capability.php:54
+#: application/Backend/tmpl/service/capability.php:80
+#: application/Backend/tmpl/service/menu.php:160
+msgid "Capability"
+msgstr "Rechten"
+
+#: application/Backend/Feature/Main/Metabox.php:272
+#: application/Service/Metabox.php:44
+msgid "Metaboxes & Widgets"
+msgstr "Metaboxes & widgets"
+
+#: application/Service/AdminMenu.php:69
+msgid "Admin Menu"
+msgstr "Beheerder menu"
+
+#: application/Backend/tmpl/page/subject-panel.php:27
+msgid "Visitor"
+msgstr "Bezoeker"
+
+#: application/Backend/tmpl/page/subject-panel.php:24
+#: application/Backend/View/Localization.php:58 media/js/aam.js:167
+msgid "Users"
+msgstr "Gebruikers"
+
+#: application/Backend/tmpl/page/subject-panel.php:21
+msgid "Roles"
+msgstr "Rollen"
+
+#: application/Backend/Feature/Main/Capability.php:343
+#: application/Backend/Feature/Main/Capability.php:368
+msgid "Miscellaneous"
+msgstr "Diversen"
+
+#: application/Backend/Feature/Main/Capability.php:339
+#: application/Backend/Feature/Main/Capability.php:360
+msgid "System"
+msgstr "Systeem"
+
+#: application/Backend/Feature/Settings/ConfigPress.php:68
+msgid "ConfigPress"
+msgstr "ConfigPress"
+
+#: application/Core/Redirect.php:78
+#: application/Service/ExtendedCapabilities.php:115
+#: application/Service/Route.php:214
+msgid "Access Denied"
+msgstr "Toegang geweigerd"

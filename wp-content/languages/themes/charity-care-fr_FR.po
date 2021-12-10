@@ -1,0 +1,141 @@
+# Translation of Themes - Charity Care in French (France)
+# This file is distributed under the same license as the Themes - Charity Care package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 13:35:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Charity Care\n"
+
+#. Theme Name of the theme
+msgid "Charity Care"
+msgstr "Charity Care"
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Aller au contenu (Pressez Entrée)"
+
+#: functions.php:287
+msgid "Charity Care | Developed By "
+msgstr "Charity Care| Développé par "
+
+#: functions.php:141
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: functions.php:139
+msgid "View documentation"
+msgstr "Voir la documentation"
+
+#: functions.php:138
+msgid "View demo"
+msgstr "Voir les démos"
+
+#: functions.php:137
+msgid "Need help?"
+msgstr "Besoin d’aide ?"
+
+#: functions.php:138 functions.php:139 functions.php:140 functions.php:141
+msgid "here"
+msgstr "ici"
+
+#: functions.php:279
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:289
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: archive-give_forms.php:27
+msgid "Page"
+msgstr "Page"
+
+#: template-parts/content-give-form.php:9 sections/section-give.php:10
+#: header.php:57 header.php:144
+msgid "Donate Now"
+msgstr "Faire un don maintenant"
+
+#: header.php:92 header.php:150
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:279
+msgid "&copy; "
+msgstr "&copy; "
+
+#: functions.php:145
+msgid "About Charity Care"
+msgstr "À propos de Charity Care"
+
+#: functions.php:140
+msgid "Support ticket"
+msgstr "Ticket de support"
+
+#: sections/section-give.php:76
+msgid "Raised: "
+msgstr "Élevé : "
+
+#: sections/section-give.php:75
+msgid "Goal: "
+msgstr "Objectif : "
+
+#: functions.php:127
+msgid "Information Links"
+msgstr "Liens d’information"
+
+#. translators: 1: total number of donations completed 2: total number of
+#. donations set as goal
+#. translators: 1: total number of donors completed 2: total number of donors
+#. set as goal
+#: give/shortcode-goal.php:107 give/shortcode-goal.php:112
+msgid "<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> donation"
+msgid_plural "<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> donations"
+msgstr[0] "<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> donation"
+msgstr[1] "<span class=\"income\">%1$s</span> sur <span class=\"goal-text\">%2$s</span> dons"
+
+#. translators: 1: amount of income raised 2: goal target amount.
+#: give/shortcode-goal.php:98
+msgid "<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> raised"
+msgstr "<span class=\"income\">%1$s</span> sur <span class=\"goal-text\">%2$s</span> obtenus"
+
+#: functions.php:289
+msgid " Powered by %s"
+msgstr " Propulsé par %s"
+
+#: functions.php:225
+msgid "Give Donation Plugin"
+msgstr "Extension de don Give"
+
+#: functions.php:109
+msgid "Give Section Content"
+msgstr "Section de contenu de don"
+
+#: functions.php:91
+msgid "Give Section Title"
+msgstr "Titre de section de don"
+
+#: functions.php:73
+msgid "Enable Give Section"
+msgstr "Activer la section de don"
+
+#: functions.php:55
+msgid "Give Section"
+msgstr "Section de don"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:288
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/charity-care/"
+msgstr "https://rarathemes.com/wordpress-themes/charity-care/"
